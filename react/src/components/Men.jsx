@@ -1,10 +1,8 @@
 import React from "react";
 import item_data from "../assets/clothing_products.json";
-
 import Product from "./Product.jsx";
 
-const Men = () => {
-  // Filter items with category "Men's Clothing"
+const Men = ({ addToCart }) => {
   const menItems = item_data.filter(
     (item) => item.category === "Men's Clothing"
   );
@@ -18,6 +16,7 @@ const Men = () => {
           return (
             <Product
               key={i}
+              addToCart={addToCart} // Pass addToCart function here
               id={item.itemId}
               name={item.name}
               price={item.price}

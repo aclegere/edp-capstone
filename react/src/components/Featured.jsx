@@ -3,7 +3,7 @@ import item_data from "../assets/clothing_products.json";
 
 import Product from "./Product.jsx";
 
-const Featured = () => {
+const Featured = ({ addToCart }) => {
   const featuredItems = item_data.slice(0, 3);
 
   return (
@@ -16,7 +16,7 @@ const Featured = () => {
             <Product
               key={i}
               id={item.id}
-              item ={item}
+              addToCart={addToCart}
               name={item.name}
               price={item.price}
               description={item.description}

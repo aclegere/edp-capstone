@@ -1,11 +1,10 @@
 import React from "react";
 import Featured from './components/Featured'
 
-function Home() {
+function Home({ addToCart }) {
   return (
     <>
-      <Featured />
-      
+      <Featured addToCart={addToCart} />
     </>
   );
 }
