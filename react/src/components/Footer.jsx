@@ -3,7 +3,7 @@ import React from 'react';
 const Footer = () => {
     return (
       <div className="footer">
-        <p>never12</p>
+        <p>never21</p>
         <ul className="footer-links">
           <li>About Us</li>
           <li>Contact</li>
