@@ -11,7 +11,7 @@ const Accessories = () => {
 
   return (
     <div className="accessories">
-      <h1>Women's Clothing</h1>
+      <h1>Accessories</h1>
       <hr />
       <div className="accessory-items">
         {accessoryItems.map((item, i) => {
