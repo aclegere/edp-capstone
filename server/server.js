@@ -15,6 +15,7 @@ app.use(cors());
 app.use(express.json());
 const PORT = 3000;
 
+//get all products
 app.get("/products", async (req, res) => {
   try {
     const client = await MongoClient.connect(url);
@@ -28,10 +29,10 @@ app.get("/products", async (req, res) => {
   }
 });
 
+//get product by id
 app.get("/products/:id", async (req, res) => {
   try {
     const id = parseInt(req.params.id);
-    console.log(id);
     const client = await MongoClient.connect(url);
     const db = client.db(dbName);
     const collection = db.collection(collectionName);
@@ -39,6 +40,21 @@ app.get("/products/:id", async (req, res) => {
     res.json(product);
   } catch (err) {
     console.error("Error:", err);
+    res.status(500).send("No product found!");
+  }
+});
+
+//get product by category --- Returning an empty array
+app.get("/products/:category", async (req, res) => {
+  try {
+    const { category } = req.params;
+    const client = await MongoClient.connect(url);
+    const db = client.db(dbName);
+    const collection = db.collection(collectionName);
+    const products = await collection.find({ category: category }).toArray();
+    res.json(products);
+  } catch (err) {
+    console.error("Error:", err); // Log any errors
     res.status(500).send("No product found!");
   }
 });
