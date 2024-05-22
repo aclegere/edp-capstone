@@ -1,6 +1,7 @@
 // Product.jsx
 import React from "react";
 import {useCart} from 'react-use-cart';
+import './Product.css'
 
 const Product = ({
   addToCart,

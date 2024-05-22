@@ -1,0 +1,17 @@
+.card {
+    padding: 2em;
+    align-items: center;
+    font-size: larger;
+
+}
+
+.card-body {
+    font-size: 20px;
+    font-weight: 250;
+    align-items: center;
+}
+
+.card-text {
+    display: flex;
+    align-items: center;
+}

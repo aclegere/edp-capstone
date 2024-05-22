@@ -1,12 +1,16 @@
 .navbar{
+    width: 100%;
     display: flex;
+    align-items: center;
+    background-color: white;
+    position: fixed;
     justify-content: space-around;
     padding: 16px;
 
 }
 
 .nav-logo p{
-    color:blueviolet;
+    color:black;
     font-size: 38px;
     font-weight: 600;
 
@@ -17,7 +21,7 @@
     align-items: center;
     list-style: none;
     gap: 55px;
-    color:blueviolet;
+    color:black;
     font-size: 20px;
     font-weight: 500;
 }
@@ -48,7 +52,7 @@
     width: 57px;
     height: 50px;
     outline: none;
-    border: 1px solid blueviolet;
+    border: 1px solid blue;
     border-radius: 50px;
     color: black;
     font-size: 10px;
@@ -68,8 +72,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: -35px;
-    margin-left: -55px;
+    margin-top: -25px;
+    margin-left: -65px;
     border-radius: 11px;
     font-size: 14px;
     background: red;
