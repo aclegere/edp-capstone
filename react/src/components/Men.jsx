@@ -3,19 +3,22 @@ import item_data from "../assets/clothing_products.json";
 
 import Product from "./Product.jsx";
 
-const Featured = () => {
-  const featuredItems = item_data.slice(0, 3);
+const Men = () => {
+  // Filter items with category "Men's Clothing"
+  const menItems = item_data.filter(
+    (item) => item.category === "Men's Clothing"
+  );
 
   return (
-    <div className="featured">
-      <h1>Featured Products</h1>
+    <div className="men">
+      <h1>Men's Clothing</h1>
       <hr />
-      <div className="featured-item">
-        {featuredItems.map((item, i) => {
+      <div className="men-items">
+        {menItems.map((item, i) => {
           return (
             <Product
               key={i}
-              id={item.id}
+              id={item.itemId}
               name={item.name}
               price={item.price}
               description={item.description}
@@ -29,4 +32,4 @@ const Featured = () => {
   );
 };
 
-export default Featured;
+export default Men;
