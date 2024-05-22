@@ -1,10 +1,10 @@
 import React from "react";
-import Navigator from "./Navigator";
+import Featured from './components/Featured'
 
 function Home() {
   return (
     <>
-      <Navigator />
+      <Featured />
       
     </>
   );
