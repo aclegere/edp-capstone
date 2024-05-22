@@ -1,6 +1,10 @@
 import React from "react";
+import {useCart} from 'react-use-cart';
 
 const Product = (props) => {
+  const { addItem } = useCart();
+
+
   return (
     <div
       className="card"
@@ -16,9 +20,9 @@ const Product = (props) => {
       <div className="card-body">
         <h5 className="card-title">Category</h5>
         <div className="card-text">{props.category}</div>
-        <div>
-          <button class="btn btn-success">Add to Cart</button>
-        </div>
+        <button className="btn btn-success" onClick={() => addItem(props.item)}>
+          Add to Cart
+        </button>
       </div>
     </div>
   );

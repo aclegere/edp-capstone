@@ -28,7 +28,9 @@ const Navbar = () => {
       </ul>
       <div className="nav-login-cart">
         <button>Login</button>
-        <img src={cart_icon} alt="cart" />
+        <Link to="/cart">
+          <img src={cart_icon} alt="cart" />
+        </Link>
         <div className="nav-cart-count">0</div>
       </div>
     </div>

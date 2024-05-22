@@ -16,6 +16,7 @@ const Featured = () => {
             <Product
               key={i}
               id={item.id}
+              item ={item}
               name={item.name}
               price={item.price}
               description={item.description}

@@ -8,20 +8,25 @@ import Men from "./components/Men";
 import Women from "./components/Women";
 import Unisex from "./components/Unisex";
 import Accessories from "./components/Accessories";
+import Cart from "./components/Cart";
+import {CartProvider } from 'react-use-cart';
 
 const App = () => {
   return (
-    <Router>
-      <Navbar />
-      <Routes>
-        <Route path="/" exact element={<Home />} />
-        <Route path="/men" element={<Men />} />
-        <Route path="/women" element={<Women />} />
-        <Route path="/unisex" element={<Unisex />} />
-        <Route path="/accessories" element={<Accessories />} />
-      </Routes>
-      <Footer />
-    </Router>
+    <CartProvider>
+      <Router>
+        <Navbar />
+        <Routes>
+          <Route path="/" exact element={<Home />} />
+          <Route path="/men" element={<Men />} />
+          <Route path="/women" element={<Women />} />
+          <Route path="/unisex" element={<Unisex />} />
+          <Route path="/accessories" element={<Accessories />} />
+          <Route path = '/cart' element = {<Cart />} />
+        </Routes>
+        <Footer />
+      </Router>
+    </CartProvider>
   );
 };
 
