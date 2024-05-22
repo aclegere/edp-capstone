@@ -3,7 +3,7 @@ import item_data from "../assets/clothing_products.json";
 
 import Product from "./Product.jsx";
 
-const Unisex = () => {
+const Unisex = ({ addToCart }) => {
   // Filter items with category "Men's Clothing"
   const unisexItems = item_data.filter(
     (item) => item.category === "Unisex Clothing"
@@ -19,6 +19,7 @@ const Unisex = () => {
             <Product
               key={i}
               id={item.itemId}
+              addToCart={addToCart}
               name={item.name}
               price={item.price}
               description={item.description}

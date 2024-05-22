@@ -1,6 +1,26 @@
+// Product.jsx
 import React from "react";
 
-const Product = (props) => {
+const Product = ({
+  addToCart,
+  id,
+  name,
+  price,
+  description,
+  category,
+  color,
+}) => {
+  const handleAddToCart = () => {
+    addToCart({
+      id,
+      name,
+      price,
+      description,
+      category,
+      color,
+    });
+  };
+
   return (
     <div
       className="card"
@@ -8,16 +28,18 @@ const Product = (props) => {
     >
       <div className="card-body">
         <h5 className="card-title">Product Details</h5>
-        <div className="card-text">{props.name} </div>
-        <div className="card-text">Description: {props.description}</div>
-        <div className="card-text">Color: {props.color}</div>
-        <div className="card-text">Price: {props.price}</div>
+        <div className="card-text">{name} </div>
+        <div className="card-text">Description: {description}</div>
+        <div className="card-text">Color: {color}</div>
+        <div className="card-text">Price: ${price}</div>
       </div>
       <div className="card-body">
         <h5 className="card-title">Category</h5>
-        <div className="card-text">{props.category}</div>
+        <div className="card-text">{category}</div>
         <div>
-          <button class="btn btn-success">Add to Cart</button>
+          <button className="btn btn-success" onClick={handleAddToCart}>
+            Add to Cart
+          </button>
         </div>
       </div>
     </div>

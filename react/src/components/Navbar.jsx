@@ -1,9 +1,10 @@
+// Navbar.jsx
 import React from "react";
 import "./Navbar.css";
 import cart_icon from "../assets/cart_icon.png";
 import { Link } from "react-router-dom";
 
-const Navbar = () => {
+const Navbar = ({ cartItemCount }) => {
   return (
     <div className="navbar">
       <div className="nav-logo">
@@ -26,11 +27,11 @@ const Navbar = () => {
           <Link to="/accessories">Accessories</Link>
         </li>
       </ul>
-      <div className="nav-login-cart">
-        <button>Login</button>
+      <button>Login</button>
+      <Link to="/cart" className="nav-login-cart">
         <img src={cart_icon} alt="cart" />
-        <div className="nav-cart-count">0</div>
-      </div>
+        <div className="nav-cart-count">{cartItemCount}</div>
+      </Link>
     </div>
   );
 };
