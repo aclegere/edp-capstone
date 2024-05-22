@@ -44,8 +44,8 @@ app.get("/products/:id", async (req, res) => {
   }
 });
 
-//get product by category --- Returning an empty array
-app.get("/products/:category", async (req, res) => {
+//get product by category
+app.get("/products/category/:category", async (req, res) => {
   try {
     const { category } = req.params;
     const client = await MongoClient.connect(url);
@@ -54,7 +54,7 @@ app.get("/products/:category", async (req, res) => {
     const products = await collection.find({ category: category }).toArray();
     res.json(products);
   } catch (err) {
-    console.error("Error:", err); // Log any errors
+    console.error("Error:", err);
     res.status(500).send("No product found!");
   }
 });
