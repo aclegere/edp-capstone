@@ -1,19 +1,17 @@
 import React from "react";
-import item_data from "../assets/clothing_products.json";
-
 import Product from "./Product.jsx";
 import "./CStyling.css";
 
 
-const Unisex = ({ addToCart, searchQuery }) => {
+const Unisex = ({ addToCart, searchQuery, data }) => {
   // If there's no search query, render all Items
   const unisexItems = searchQuery
-    ? item_data.filter(
+    ? data.filter(
         (item) =>
           item.category === "Unisex Clothing" &&
           item.name.toLowerCase().includes(searchQuery.toLowerCase())
       )
-    : item_data.filter((item) => item.category === "Unisex Clothing");
+    : data.filter((item) => item.category === "Unisex Clothing");
 
   return (
     <div className="unisex">
