@@ -1,6 +1,5 @@
-// App.jsx
 import React, { useState } from "react";
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import Home from "./Home";
@@ -8,13 +7,12 @@ import Men from "./components/Men";
 import Women from "./components/Women";
 import Unisex from "./components/Unisex";
 import Accessories from "./components/Accessories";
-import Product from "./components/Product";
 import Cart from "./components/Cart";
-import Checkout from './components/Checkout';
-import Search from './components/Search';
+import Checkout from "./components/Checkout";
 
 const App = () => {
   const [cartItems, setCartItems] = useState([]);
+  const [searchQuery, setSearchQuery] = useState("");
 
   const addToCart = (item) => {
     setCartItems([...cartItems, item]);
@@ -24,18 +22,36 @@ const App = () => {
     setCartItems(cartItems.filter((item) => item.id !== itemId));
   };
 
+  const handleSearch = (query) => {
+    setSearchQuery(query);
+  };
+
   return (
     <Router>
-      <Navbar cartItemCount={cartItems.length} />
-      <Search />
+      <Navbar cartItemCount={cartItems.length} onSearch={handleSearch} />
       <Routes>
-        <Route path="/" exact element={<Home addToCart={addToCart} />} />
-        <Route path="/men" element={<Men addToCart={addToCart} />} />
-        <Route path="/women" element={<Women addToCart={addToCart} />} />
-        <Route path="/unisex" element={<Unisex addToCart={addToCart} />} />
+        <Route
+          path="/"
+          exact
+          element={<Home addToCart={addToCart} searchQuery={searchQuery} />}
+        />
+        <Route
+          path="/men"
+          element={<Men addToCart={addToCart} searchQuery={searchQuery} />}
+        />
+        <Route
+          path="/women"
+          element={<Women addToCart={addToCart} searchQuery={searchQuery} />}
+        />
+        <Route
+          path="/unisex"
+          element={<Unisex addToCart={addToCart} searchQuery={searchQuery} />}
+        />
         <Route
           path="/accessories"
-          element={<Accessories addToCart={addToCart} />}
+          element={
+            <Accessories addToCart={addToCart} searchQuery={searchQuery} />
+          }
         />
         <Route
           path="/cart"
@@ -43,7 +59,7 @@ const App = () => {
             <Cart cartItems={cartItems} removeFromCart={removeFromCart} />
           }
         />
-        <Route path = '/checkout' element = {<Checkout />} />
+        <Route path="/checkout" element={<Checkout />} />
       </Routes>
       <Footer />
     </Router>

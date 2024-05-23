@@ -3,11 +3,15 @@ import item_data from "../assets/clothing_products.json";
 
 import Product from "./Product.jsx";
 
-const Accessories = ({ addToCart }) => {
-  // Filter items with category "Men's Clothing"
-  const accessoryItems = item_data.filter(
-    (item) => item.category === "Accessories"
-  );
+const Accessories = ({ addToCart, searchQuery }) => {
+  // If there's no search query, render all menItems
+  const accessoryItems = searchQuery
+    ? item_data.filter(
+        (item) =>
+          item.category === "Accessories" &&
+          item.name.toLowerCase().includes(searchQuery.toLowerCase())
+      )
+    : item_data.filter((item) => item.category === "Accessories");
 
   return (
     <div className="accessories">

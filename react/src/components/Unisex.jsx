@@ -3,11 +3,15 @@ import item_data from "../assets/clothing_products.json";
 
 import Product from "./Product.jsx";
 
-const Unisex = ({ addToCart }) => {
-  // Filter items with category "Men's Clothing"
-  const unisexItems = item_data.filter(
-    (item) => item.category === "Unisex Clothing"
-  );
+const Unisex = ({ addToCart, searchQuery }) => {
+  // If there's no search query, render all Items
+  const unisexItems = searchQuery
+    ? item_data.filter(
+        (item) =>
+          item.category === "Unisex Clothing" &&
+          item.name.toLowerCase().includes(searchQuery.toLowerCase())
+      )
+    : item_data.filter((item) => item.category === "Unisex Clothing");
 
   return (
     <div className="unisex">

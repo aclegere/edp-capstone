@@ -2,10 +2,15 @@ import React from "react";
 import item_data from "../assets/clothing_products.json";
 import Product from "./Product.jsx";
 
-const Men = ({ addToCart }) => {
-  const menItems = item_data.filter(
-    (item) => item.category === "Men's Clothing"
-  );
+const Men = ({ addToCart, searchQuery }) => {
+  // If there's no search query, render all menItems
+  const menItems = searchQuery
+    ? item_data.filter(
+        (item) =>
+          item.category === "Men's Clothing" &&
+          item.name.toLowerCase().includes(searchQuery.toLowerCase())
+      )
+    : item_data.filter((item) => item.category === "Men's Clothing");
 
   return (
     <div className="men">
@@ -16,7 +21,7 @@ const Men = ({ addToCart }) => {
           return (
             <Product
               key={i}
-              addToCart={addToCart} // Pass addToCart function here
+              addToCart={addToCart}
               id={item.itemId}
               name={item.name}
               price={item.price}

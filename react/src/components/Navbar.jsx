@@ -1,10 +1,10 @@
-// Navbar.jsx
 import React from "react";
 import "./Navbar.css";
 import cart_icon from "../assets/cart_icon.png";
 import { Link } from "react-router-dom";
+import Search from "./Search";
 
-const Navbar = ({ cartItemCount }) => {
+const Navbar = ({ cartItemCount, onSearch }) => {
   return (
     <div className="navbar">
       <div className="nav-logo">
@@ -32,6 +32,7 @@ const Navbar = ({ cartItemCount }) => {
         <img src={cart_icon} alt="cart" />
         <div className="nav-cart-count">{cartItemCount}</div>
       </Link>
+      <Search onSearch={onSearch} />
     </div>
   );
 };
