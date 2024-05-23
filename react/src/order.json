@@ -1,0 +1,9 @@
+[
+    {
+        "id":1,
+        "name": "John Appleseed",
+        "phone": 1234567890,
+        "e-mail": "john@appleseed.com",
+        "shipping address": "123 Happy Ln, Atlanta GA 12345"
+    }
+]

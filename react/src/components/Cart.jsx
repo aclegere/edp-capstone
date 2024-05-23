@@ -1,9 +1,17 @@
 import React from "react";
-import "./Cart.css";
+import { useNavigate } from "react-router-dom";
+
 
 const Cart = ({ cartItems, removeFromCart }) => {
   const totalPrice = cartItems.reduce((acc, item) => acc + item.price, 0);
+  
+  const navigate = useNavigate()
 
+  const goToNewPage=()=>{
+    navigate("/checkout");
+  }
+
+  
   return (
     <div className="cart">
       <h2>Shopping Cart</h2>
@@ -16,6 +24,7 @@ const Cart = ({ cartItems, removeFromCart }) => {
         ))}
       </ul>
       <p>Total Price: ${totalPrice.toFixed(2)}</p>
+      <div><button onClick={goToNewPage}>Proceed to Checkout</button></div>
     </div>
   );
 };
