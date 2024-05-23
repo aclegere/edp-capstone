@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import Home from "./Home";
 import Men from "./components/Men";
@@ -108,7 +107,6 @@ const App = () => {
           }
         />
       </Routes>
-      <Footer />
     </Router>
   );
 };

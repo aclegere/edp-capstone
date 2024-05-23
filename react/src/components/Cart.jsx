@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-
+import './Cart.css'
 
 const Cart = ({ cartItems, removeFromCart }) => {
   const totalPrice = cartItems.reduce((acc, item) => acc + item.price, 0);

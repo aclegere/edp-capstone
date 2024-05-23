@@ -86,10 +86,11 @@ const Checkout = ({ cartItems, setCartItems }) => {
   return (
     <>
       <div className="form-box">
-        <h5 className="form-step">Shipping Information</h5>
+        {successMessage && <div className="success">{successMessage}</div>}
+        <h5 className="form-step">Customer Information</h5>
         <form>
           <div className="field1">
-            <label>Customer Info</label>
+            <label>Shipping Information</label>
             <input
               type="text"
               placeholder="Name"
@@ -119,9 +120,6 @@ const Checkout = ({ cartItems, setCartItems }) => {
             />
           </div>
         </form>
-      </div>
-
-      <div className="payment-box">
         <form onSubmit={handleSubmit}>
           <div className="field1">
             <label>Payment Info</label>
@@ -133,21 +131,21 @@ const Checkout = ({ cartItems, setCartItems }) => {
               onChange={handleInputChange}
             />
             <input
-              type="text"
+              type="password"
               placeholder="Card Number"
               name="cardNumber"
               value={formData.cardNumber}
               onChange={handleInputChange}
             />
             <input
-              type="text"
+              type="password"
               placeholder="Expiration Date (MM/YY)"
               name="expirationDate"
               value={formData.expirationDate}
               onChange={handleInputChange}
             />
             <input
-              type="text"
+              type="password"
               placeholder="Security Code"
               name="securityCode"
               value={formData.securityCode}
@@ -157,8 +155,13 @@ const Checkout = ({ cartItems, setCartItems }) => {
           <button className="submitBtn" type="submit">
             Submit
           </button>
+
         </form>
-        {successMessage && <div className="success">{successMessage}</div>}
+      </div>
+
+      <div className="payment-box">
+        
+        
       </div>
     </>
   );
