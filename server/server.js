@@ -8,6 +8,7 @@ dotenv.config();
 const url = process.env.MONGO_DB_URL;
 const dbName = process.env.MONGO_DB;
 const collectionName = process.env.MONGO_DB_COLLECTION;
+const ordersCollection = process.env.MONGO_DB_ORDERS;
 
 const app = express();
 app.use(cors());
@@ -56,6 +57,23 @@ app.get("/products/category/:category", async (req, res) => {
   } catch (err) {
     console.error("Error:", err);
     res.status(500).send("No product found!");
+  }
+});
+
+// POST order to db
+app.post("/order", async (req, res) => {
+  try {
+    const order = req.body;
+    console.log(order)
+    const client = await MongoClient.connect(url);
+    const db = client.db(dbName);
+    const collection = db.collection(ordersCollection);
+    const result = await collection.insertOne(order);
+    console.log(result);
+    res.status(201).send(`{"_id":"${result.insertedId}"}`);
+  } catch (err) {
+    console.error("Error:", err);
+    res.status(500).send("Error adding order");
   }
 });
 

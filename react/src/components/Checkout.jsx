@@ -20,7 +20,7 @@ const Checkout = ({ cartItems, setCartItems }) => {
     setFormData({ ...formData, [name]: value });
   };
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
     const checkoutData = {
       customerInfo: {
@@ -38,8 +38,27 @@ const Checkout = ({ cartItems, setCartItems }) => {
       cartItems: cartItems, // cart items which is passed in from app.jsx
     };
     console.log(checkoutData); // checkout data?
-    
+
     // sending data to server
+    try {
+      // Make a POST request to the API
+      const response = await fetch(`http://localhost:3000/order`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(checkoutData),
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+
+      const data = await response.json();
+      console.log(data);
+    } catch (error) {
+      console.error("Error posting data", error);
+    }
 
     // set success message, will time it out later
     setSuccessMessage("Your order has been successfully submitted!");
@@ -56,7 +75,7 @@ const Checkout = ({ cartItems, setCartItems }) => {
       securityCode: "",
     });
 
-    // cart items back to 0 
+    // cart items back to 0
     setCartItems([]);
 
     setTimeout(() => {
