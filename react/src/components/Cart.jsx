@@ -15,6 +15,7 @@ const Cart = ({ cartItems, removeFromCart }) => {
         ))}
       </ul>
       <p>Total Price: ${totalPrice.toFixed(2)}</p>
+      <div><button>Proceed to Checkout</button></div>
     </div>
   );
 };
