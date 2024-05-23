@@ -2,6 +2,7 @@ import React from "react";
 import item_data from "../assets/clothing_products.json";
 
 import Product from "./Product.jsx";
+import './CStyling.css';
 
 const Featured = ({ addToCart }) => {
   const featuredItems = item_data.slice(0, 3);

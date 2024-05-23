@@ -2,6 +2,8 @@ import React from "react";
 import item_data from "../assets/clothing_products.json";
 
 import Product from "./Product.jsx";
+import "./CStyling.css";
+
 
 const Accessories = ({ addToCart }) => {
   // Filter items with category "Men's Clothing"
