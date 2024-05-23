@@ -1,10 +1,9 @@
-.featured, .men, .women, .unisex, .accessories {
+.featured, .men, .women, .unisex, .accessories, .cart {
     box-sizing:border-box;
     margin: 0;
     padding: 5vw;
     margin: 2.9vw 0;
     width: 200%;
     position: relative;
-    border: 1px solid red;
 
 }
