@@ -1,0 +1,1001 @@
+itemId,name,description,price,color,category,popularity,durability
+1,Dress,Essential for your wardrobe.,16.11,Indigo,Unisex Clothing,2,5
+2,Belt,Affordable and durable.,90.78,Orange,Men's Clothing,6,6
+3,Hoodie,Trendy and fashionable.,28.17,Blue,Accessories,5,10
+4,Belt,Made from premium materials.,32.55,Red,Women's Clothing,5,1
+5,Hat,Elegant and chic.,53.54,Violet,Unisex Clothing,9,6
+6,Hat,Perfect for any occasion.,97.09,Green,Unisex Clothing,3,5
+7,Dress,Affordable and durable.,82.04,Yellow,Unisex Clothing,4,3
+8,T-Shirt,A comfortable and stylish piece.,81.11,Blue,Accessories,5,10
+9,Sunglasses,High quality and durable.,70.97,Violet,Women's Clothing,6,5
+10,Hoodie,Trendy and fashionable.,96.69,Yellow,Unisex Clothing,5,5
+11,Belt,Made from premium materials.,44.16,Blue,Unisex Clothing,3,9
+12,Jeans,Essential for your wardrobe.,93.03,Orange,Women's Clothing,1,3
+13,Hat,Made from premium materials.,67.95,Yellow,Accessories,6,5
+14,Hat,Perfect for any occasion.,69.77,Orange,Men's Clothing,9,9
+15,Hat,Essential for your wardrobe.,55.32,Blue,Unisex Clothing,8,5
+16,Hat,High quality and durable.,12.5,Green,Men's Clothing,4,5
+17,Shoes,Essential for your wardrobe.,17.99,Yellow,Accessories,2,4
+18,Hoodie,A comfortable and stylish piece.,52.77,Green,Unisex Clothing,9,8
+19,T-Shirt,Affordable and durable.,55.25,Orange,Men's Clothing,9,9
+20,Blouse,A comfortable and stylish piece.,44.01,Blue,Women's Clothing,7,2
+21,Sunglasses,Made from premium materials.,67.51,Violet,Men's Clothing,10,5
+22,Shoes,A great addition to your collection.,20.19,Violet,Accessories,10,9
+23,Dress,Trendy and fashionable.,45.52,Blue,Women's Clothing,4,6
+24,Dress,Essential for your wardrobe.,97.75,Blue,Unisex Clothing,3,5
+25,Blouse,A comfortable and stylish piece.,36.2,Green,Unisex Clothing,3,10
+26,T-Shirt,Essential for your wardrobe.,42.4,Yellow,Men's Clothing,3,5
+27,Sunglasses,Made from premium materials.,66.46,Yellow,Women's Clothing,9,4
+28,Jeans,Perfect for any occasion.,89.53,Yellow,Accessories,4,7
+29,Hoodie,Perfect for any occasion.,72.71,Orange,Men's Clothing,9,1
+30,Hoodie,Essential for your wardrobe.,56.02,Blue,Accessories,1,5
+31,Shoes,Versatile and practical.,42.89,Indigo,Accessories,6,9
+32,T-Shirt,A comfortable and stylish piece.,41.33,Violet,Accessories,4,5
+33,Hoodie,Elegant and chic.,41.23,Blue,Men's Clothing,1,6
+34,Sunglasses,Essential for your wardrobe.,84.04,Yellow,Accessories,4,3
+35,Hoodie,Elegant and chic.,56.05,Indigo,Men's Clothing,6,8
+36,Jeans,A comfortable and stylish piece.,80.33,Indigo,Unisex Clothing,7,8
+37,Dress,Affordable and durable.,34.7,Indigo,Accessories,3,1
+38,Blouse,High quality and durable.,31.43,Green,Accessories,8,2
+39,Handbag,Made from premium materials.,27.04,Yellow,Men's Clothing,5,6
+40,Belt,Trendy and fashionable.,92.87,Violet,Women's Clothing,9,7
+41,T-Shirt,Made from premium materials.,35.65,Orange,Men's Clothing,8,2
+42,Dress,Essential for your wardrobe.,21.55,Orange,Men's Clothing,2,5
+43,Hoodie,A great addition to your collection.,25.4,Yellow,Women's Clothing,10,4
+44,Blouse,A great addition to your collection.,22.57,Red,Accessories,10,10
+45,Handbag,A comfortable and stylish piece.,32.18,Red,Men's Clothing,2,8
+46,Dress,A great addition to your collection.,17.58,Blue,Unisex Clothing,1,6
+47,Hoodie,A comfortable and stylish piece.,87.42,Green,Men's Clothing,9,10
+48,Blouse,A great addition to your collection.,61.16,Green,Women's Clothing,8,10
+49,Belt,Versatile and practical.,36.91,Indigo,Unisex Clothing,8,8
+50,T-Shirt,A great addition to your collection.,23.81,Indigo,Men's Clothing,1,9
+51,T-Shirt,High quality and durable.,97.58,Violet,Unisex Clothing,7,10
+52,Blouse,A great addition to your collection.,66.55,Yellow,Accessories,5,9
+53,Handbag,Essential for your wardrobe.,41.81,Red,Unisex Clothing,4,2
+54,Hoodie,Perfect for any occasion.,28.31,Violet,Women's Clothing,6,6
+55,T-Shirt,Affordable and durable.,94.3,Red,Women's Clothing,9,10
+56,Handbag,Made from premium materials.,49.41,Blue,Men's Clothing,9,9
+57,T-Shirt,Trendy and fashionable.,28.24,Indigo,Men's Clothing,6,1
+58,Handbag,Versatile and practical.,74.98,Red,Accessories,7,2
+59,Handbag,Perfect for any occasion.,47.2,Violet,Women's Clothing,8,8
+60,Blouse,A comfortable and stylish piece.,63.11,Green,Accessories,2,5
+61,Hoodie,A comfortable and stylish piece.,46.18,Orange,Accessories,7,4
+62,Sunglasses,Elegant and chic.,25.65,Red,Accessories,2,9
+63,Hoodie,Trendy and fashionable.,98.66,Green,Accessories,4,3
+64,Blouse,High quality and durable.,22.01,Violet,Men's Clothing,6,2
+65,Handbag,Trendy and fashionable.,10.63,Violet,Unisex Clothing,2,7
+66,Shoes,Affordable and durable.,92.48,Violet,Women's Clothing,2,8
+67,Sunglasses,High quality and durable.,99.79,Yellow,Accessories,10,4
+68,Hoodie,Essential for your wardrobe.,21.74,Red,Accessories,7,4
+69,Handbag,Elegant and chic.,70.96,Orange,Men's Clothing,10,3
+70,Handbag,High quality and durable.,61.13,Indigo,Unisex Clothing,5,5
+71,T-Shirt,Versatile and practical.,63.82,Yellow,Accessories,4,7
+72,Sunglasses,Trendy and fashionable.,21.4,Blue,Women's Clothing,4,9
+73,Belt,Affordable and durable.,26.85,Yellow,Accessories,9,8
+74,T-Shirt,Affordable and durable.,95.45,Indigo,Men's Clothing,10,7
+75,Jeans,A comfortable and stylish piece.,62.23,Orange,Accessories,9,2
+76,T-Shirt,Made from premium materials.,25.79,Yellow,Accessories,10,10
+77,Hoodie,Essential for your wardrobe.,92.76,Indigo,Men's Clothing,1,4
+78,T-Shirt,Affordable and durable.,90.95,Orange,Accessories,5,10
+79,Handbag,A great addition to your collection.,88.26,Indigo,Unisex Clothing,9,2
+80,Shoes,A comfortable and stylish piece.,90.63,Green,Unisex Clothing,10,2
+81,Belt,High quality and durable.,36.11,Green,Men's Clothing,1,2
+82,T-Shirt,Trendy and fashionable.,72.72,Blue,Women's Clothing,3,3
+83,Handbag,Made from premium materials.,73.52,Red,Men's Clothing,8,7
+84,Jeans,Made from premium materials.,35.46,Green,Unisex Clothing,9,1
+85,Belt,Affordable and durable.,66.87,Yellow,Accessories,5,7
+86,Hat,Versatile and practical.,25.08,Violet,Accessories,8,4
+87,Hat,Versatile and practical.,52.96,Blue,Men's Clothing,2,3
+88,Dress,Elegant and chic.,12.98,Orange,Women's Clothing,7,2
+89,Shoes,Made from premium materials.,64.23,Indigo,Unisex Clothing,5,5
+90,Sunglasses,Made from premium materials.,83.62,Yellow,Unisex Clothing,6,7
+91,Handbag,Elegant and chic.,82.86,Orange,Men's Clothing,7,10
+92,Hoodie,A great addition to your collection.,57.06,Orange,Accessories,9,1
+93,Belt,A comfortable and stylish piece.,26.68,Blue,Accessories,6,9
+94,Shoes,Elegant and chic.,41.63,Indigo,Accessories,2,7
+95,Belt,Made from premium materials.,29.04,Violet,Unisex Clothing,6,2
+96,T-Shirt,A comfortable and stylish piece.,65.51,Violet,Unisex Clothing,5,6
+97,Handbag,Trendy and fashionable.,81.83,Red,Men's Clothing,1,1
+98,Shoes,Versatile and practical.,24.85,Yellow,Unisex Clothing,1,2
+99,Handbag,A comfortable and stylish piece.,46.13,Violet,Women's Clothing,6,1
+100,Sunglasses,A great addition to your collection.,75.86,Red,Women's Clothing,5,9
+101,Jeans,Affordable and durable.,69.9,Yellow,Women's Clothing,4,10
+102,Shoes,Essential for your wardrobe.,78.74,Yellow,Men's Clothing,1,10
+103,Hoodie,A comfortable and stylish piece.,99.18,Indigo,Unisex Clothing,1,7
+104,Handbag,High quality and durable.,11.6,Red,Men's Clothing,8,7
+105,Shoes,Affordable and durable.,40.2,Orange,Accessories,9,8
+106,Hat,Elegant and chic.,45.33,Indigo,Accessories,4,9
+107,Blouse,Trendy and fashionable.,48.8,Yellow,Women's Clothing,10,10
+108,Dress,Essential for your wardrobe.,21.99,Violet,Accessories,5,6
+109,Jeans,Elegant and chic.,62.31,Blue,Unisex Clothing,6,2
+110,Blouse,Versatile and practical.,72.2,Indigo,Women's Clothing,4,7
+111,Hat,A comfortable and stylish piece.,22.03,Green,Men's Clothing,2,5
+112,Dress,Made from premium materials.,54.34,Yellow,Unisex Clothing,6,3
+113,Shoes,Perfect for any occasion.,23.93,Green,Men's Clothing,2,8
+114,Shoes,Affordable and durable.,94.41,Violet,Accessories,1,5
+115,T-Shirt,Versatile and practical.,52.57,Indigo,Women's Clothing,9,6
+116,Belt,High quality and durable.,76.87,Yellow,Unisex Clothing,6,8
+117,Belt,Perfect for any occasion.,29.03,Indigo,Accessories,5,1
+118,Blouse,Elegant and chic.,93.56,Orange,Accessories,4,4
+119,Jeans,Perfect for any occasion.,83.02,Green,Women's Clothing,8,3
+120,Shoes,Elegant and chic.,13.19,Orange,Women's Clothing,6,2
+121,Hoodie,A comfortable and stylish piece.,83.42,Green,Accessories,10,7
+122,Hoodie,Trendy and fashionable.,20.82,Green,Accessories,10,1
+123,Shoes,Versatile and practical.,95.47,Blue,Women's Clothing,7,2
+124,Sunglasses,Essential for your wardrobe.,89.04,Orange,Women's Clothing,7,6
+125,Sunglasses,Perfect for any occasion.,31.67,Indigo,Accessories,5,3
+126,Sunglasses,Essential for your wardrobe.,85.46,Orange,Unisex Clothing,7,9
+127,Belt,Elegant and chic.,19.1,Violet,Men's Clothing,8,3
+128,Sunglasses,A comfortable and stylish piece.,12.38,Red,Men's Clothing,9,10
+129,Dress,Perfect for any occasion.,86.52,Orange,Men's Clothing,2,2
+130,Dress,Essential for your wardrobe.,96.85,Orange,Unisex Clothing,7,8
+131,Sunglasses,Trendy and fashionable.,15.75,Orange,Unisex Clothing,1,1
+132,Hat,High quality and durable.,45.86,Violet,Unisex Clothing,9,6
+133,Hat,A great addition to your collection.,54.59,Green,Unisex Clothing,2,10
+134,Shoes,Elegant and chic.,90.11,Indigo,Men's Clothing,9,3
+135,Handbag,A comfortable and stylish piece.,22.94,Red,Men's Clothing,5,10
+136,Jeans,Versatile and practical.,86.02,Blue,Unisex Clothing,8,1
+137,Dress,Essential for your wardrobe.,79.66,Violet,Women's Clothing,2,4
+138,Hat,Essential for your wardrobe.,22.54,Blue,Women's Clothing,7,4
+139,Handbag,Essential for your wardrobe.,92.47,Blue,Women's Clothing,10,3
+140,Hoodie,Trendy and fashionable.,65.99,Orange,Unisex Clothing,8,3
+141,Hat,A great addition to your collection.,71.33,Orange,Accessories,2,1
+142,T-Shirt,Versatile and practical.,82.04,Yellow,Accessories,4,5
+143,Blouse,Made from premium materials.,46.91,Green,Unisex Clothing,1,1
+144,Shoes,Perfect for any occasion.,32.85,Blue,Women's Clothing,8,9
+145,Handbag,High quality and durable.,36.19,Indigo,Women's Clothing,6,2
+146,Belt,A great addition to your collection.,58.21,Orange,Accessories,3,10
+147,Shoes,Elegant and chic.,21.57,Indigo,Men's Clothing,5,5
+148,Dress,Trendy and fashionable.,44.2,Yellow,Accessories,10,7
+149,Jeans,Trendy and fashionable.,22.89,Indigo,Accessories,1,7
+150,Shoes,High quality and durable.,12.1,Yellow,Women's Clothing,3,1
+151,Belt,A great addition to your collection.,90.34,Violet,Men's Clothing,3,4
+152,Belt,High quality and durable.,30.72,Red,Unisex Clothing,9,6
+153,Sunglasses,A comfortable and stylish piece.,32.91,Blue,Accessories,2,9
+154,Blouse,A comfortable and stylish piece.,34.75,Green,Unisex Clothing,4,8
+155,Belt,A comfortable and stylish piece.,33.78,Blue,Accessories,3,2
+156,Sunglasses,A comfortable and stylish piece.,60.25,Orange,Unisex Clothing,6,5
+157,Hat,Versatile and practical.,32.18,Orange,Accessories,2,9
+158,Shoes,A comfortable and stylish piece.,69.28,Indigo,Men's Clothing,4,4
+159,Belt,A comfortable and stylish piece.,98.19,Indigo,Women's Clothing,3,2
+160,Belt,Trendy and fashionable.,67.79,Red,Unisex Clothing,1,5
+161,Belt,High quality and durable.,16.83,Orange,Accessories,9,6
+162,Blouse,Elegant and chic.,76.26,Blue,Unisex Clothing,4,6
+163,Hoodie,A comfortable and stylish piece.,55.14,Indigo,Accessories,6,1
+164,Sunglasses,Affordable and durable.,23.05,Green,Women's Clothing,2,4
+165,Handbag,Trendy and fashionable.,52.72,Red,Accessories,2,1
+166,Sunglasses,Versatile and practical.,41.1,Orange,Unisex Clothing,3,7
+167,Dress,Versatile and practical.,52.93,Indigo,Accessories,9,4
+168,Blouse,A great addition to your collection.,45.8,Orange,Men's Clothing,9,7
+169,T-Shirt,Affordable and durable.,43.68,Violet,Men's Clothing,5,7
+170,Shoes,Elegant and chic.,52.58,Red,Accessories,8,10
+171,Sunglasses,A comfortable and stylish piece.,33.85,Green,Men's Clothing,2,8
+172,Jeans,Made from premium materials.,66.52,Blue,Unisex Clothing,2,7
+173,Blouse,A great addition to your collection.,56.38,Red,Men's Clothing,4,4
+174,Jeans,Versatile and practical.,59.15,Red,Accessories,8,2
+175,Hoodie,Elegant and chic.,78.72,Blue,Accessories,9,2
+176,Handbag,A great addition to your collection.,47.73,Orange,Women's Clothing,6,10
+177,Sunglasses,High quality and durable.,65.89,Indigo,Unisex Clothing,9,4
+178,Belt,Essential for your wardrobe.,35.88,Violet,Unisex Clothing,7,5
+179,Belt,Essential for your wardrobe.,55.16,Red,Accessories,5,3
+180,Belt,High quality and durable.,56.97,Indigo,Men's Clothing,3,1
+181,Hat,Made from premium materials.,84.24,Blue,Accessories,8,5
+182,Sunglasses,Essential for your wardrobe.,47.3,Orange,Unisex Clothing,5,7
+183,Handbag,Perfect for any occasion.,96.0,Violet,Unisex Clothing,7,6
+184,Shoes,A great addition to your collection.,92.38,Orange,Women's Clothing,7,2
+185,Dress,Made from premium materials.,81.06,Orange,Women's Clothing,6,8
+186,Hat,Essential for your wardrobe.,39.26,Violet,Women's Clothing,9,5
+187,Hat,High quality and durable.,17.14,Red,Accessories,3,9
+188,Shoes,Made from premium materials.,96.53,Orange,Men's Clothing,2,3
+189,Hoodie,A great addition to your collection.,99.69,Yellow,Women's Clothing,7,10
+190,T-Shirt,Perfect for any occasion.,94.06,Red,Men's Clothing,5,3
+191,Handbag,Versatile and practical.,54.49,Blue,Women's Clothing,3,4
+192,Blouse,Essential for your wardrobe.,33.14,Orange,Women's Clothing,10,3
+193,Dress,High quality and durable.,15.96,Indigo,Women's Clothing,5,7
+194,Shoes,Perfect for any occasion.,54.58,Green,Accessories,3,10
+195,Hat,Trendy and fashionable.,18.8,Green,Women's Clothing,7,5
+196,Blouse,A comfortable and stylish piece.,30.02,Red,Men's Clothing,5,1
+197,Handbag,Versatile and practical.,20.35,Green,Accessories,4,4
+198,Jeans,Perfect for any occasion.,86.23,Indigo,Accessories,1,9
+199,T-Shirt,Essential for your wardrobe.,27.88,Blue,Unisex Clothing,1,5
+200,T-Shirt,A comfortable and stylish piece.,26.03,Orange,Unisex Clothing,4,10
+201,T-Shirt,Essential for your wardrobe.,27.37,Indigo,Unisex Clothing,1,5
+202,T-Shirt,Made from premium materials.,96.3,Green,Men's Clothing,4,5
+203,T-Shirt,High quality and durable.,51.81,Blue,Men's Clothing,5,7
+204,Shoes,Elegant and chic.,55.83,Indigo,Unisex Clothing,5,10
+205,Blouse,Perfect for any occasion.,49.59,Indigo,Men's Clothing,5,4
+206,Jeans,Affordable and durable.,68.36,Violet,Accessories,2,10
+207,Sunglasses,A comfortable and stylish piece.,40.59,Red,Women's Clothing,3,2
+208,Handbag,A comfortable and stylish piece.,12.77,Violet,Unisex Clothing,7,8
+209,Jeans,Versatile and practical.,92.6,Green,Women's Clothing,1,2
+210,Hoodie,Elegant and chic.,43.27,Yellow,Unisex Clothing,2,10
+211,Dress,Perfect for any occasion.,70.77,Indigo,Men's Clothing,1,8
+212,Hoodie,High quality and durable.,24.21,Violet,Unisex Clothing,2,2
+213,Hoodie,Trendy and fashionable.,72.24,Violet,Accessories,4,7
+214,Hoodie,Essential for your wardrobe.,91.43,Yellow,Accessories,6,9
+215,Hat,Elegant and chic.,58.8,Indigo,Men's Clothing,9,6
+216,Belt,Perfect for any occasion.,79.9,Yellow,Men's Clothing,10,6
+217,Hoodie,A comfortable and stylish piece.,78.24,Orange,Accessories,10,5
+218,T-Shirt,High quality and durable.,12.14,Green,Men's Clothing,5,9
+219,T-Shirt,Essential for your wardrobe.,74.27,Indigo,Accessories,4,10
+220,Jeans,A comfortable and stylish piece.,18.85,Green,Women's Clothing,10,7
+221,Shoes,Essential for your wardrobe.,97.38,Orange,Accessories,7,7
+222,Jeans,Made from premium materials.,62.89,Yellow,Men's Clothing,5,1
+223,Belt,Made from premium materials.,40.35,Orange,Men's Clothing,10,1
+224,Dress,Trendy and fashionable.,41.66,Indigo,Men's Clothing,2,7
+225,Belt,Affordable and durable.,39.86,Green,Men's Clothing,5,8
+226,Shoes,A comfortable and stylish piece.,67.51,Yellow,Women's Clothing,4,1
+227,Blouse,High quality and durable.,48.9,Indigo,Men's Clothing,4,9
+228,Jeans,Versatile and practical.,78.5,Blue,Accessories,7,7
+229,Belt,Perfect for any occasion.,97.98,Blue,Men's Clothing,4,7
+230,Jeans,Perfect for any occasion.,70.11,Violet,Unisex Clothing,9,5
+231,Sunglasses,A comfortable and stylish piece.,81.17,Blue,Men's Clothing,3,9
+232,Dress,Essential for your wardrobe.,19.17,Green,Men's Clothing,3,10
+233,Shoes,Made from premium materials.,43.08,Indigo,Men's Clothing,7,9
+234,T-Shirt,Essential for your wardrobe.,29.53,Blue,Unisex Clothing,3,2
+235,Dress,High quality and durable.,88.06,Blue,Accessories,4,7
+236,Blouse,Essential for your wardrobe.,12.75,Indigo,Men's Clothing,6,1
+237,Blouse,Versatile and practical.,99.07,Violet,Women's Clothing,8,9
+238,Dress,Made from premium materials.,41.58,Green,Accessories,9,4
+239,Dress,Perfect for any occasion.,44.56,Yellow,Accessories,5,9
+240,Hat,Versatile and practical.,24.99,Orange,Women's Clothing,5,8
+241,Belt,Versatile and practical.,44.12,Yellow,Women's Clothing,6,8
+242,Hat,High quality and durable.,93.87,Indigo,Women's Clothing,3,10
+243,Dress,Trendy and fashionable.,66.56,Red,Women's Clothing,7,3
+244,Jeans,A comfortable and stylish piece.,51.78,Blue,Accessories,6,4
+245,Hoodie,Trendy and fashionable.,98.3,Yellow,Men's Clothing,8,9
+246,Shoes,Trendy and fashionable.,19.7,Red,Unisex Clothing,6,6
+247,Hat,A great addition to your collection.,79.21,Red,Accessories,2,2
+248,Shoes,A great addition to your collection.,70.61,Yellow,Accessories,10,4
+249,Handbag,Essential for your wardrobe.,79.82,Red,Unisex Clothing,4,1
+250,T-Shirt,A comfortable and stylish piece.,33.22,Violet,Unisex Clothing,1,9
+251,Hat,Perfect for any occasion.,92.26,Blue,Unisex Clothing,8,9
+252,Shoes,Trendy and fashionable.,86.34,Violet,Accessories,5,9
+253,Dress,Versatile and practical.,35.28,Blue,Accessories,1,10
+254,Jeans,A comfortable and stylish piece.,53.9,Orange,Women's Clothing,1,3
+255,Dress,High quality and durable.,76.31,Red,Accessories,7,1
+256,Shoes,A comfortable and stylish piece.,50.31,Yellow,Women's Clothing,9,5
+257,Dress,Affordable and durable.,36.56,Indigo,Women's Clothing,8,10
+258,Hoodie,Essential for your wardrobe.,28.05,Orange,Men's Clothing,8,3
+259,Dress,A comfortable and stylish piece.,87.02,Red,Women's Clothing,9,9
+260,Hoodie,A comfortable and stylish piece.,79.91,Orange,Accessories,3,6
+261,Sunglasses,Made from premium materials.,30.97,Blue,Accessories,6,4
+262,Dress,Elegant and chic.,71.97,Orange,Women's Clothing,1,10
+263,Shoes,Trendy and fashionable.,93.76,Orange,Unisex Clothing,7,4
+264,Handbag,Versatile and practical.,72.4,Indigo,Unisex Clothing,10,1
+265,Hat,Trendy and fashionable.,22.14,Indigo,Accessories,1,10
+266,Belt,Versatile and practical.,28.03,Green,Unisex Clothing,5,8
+267,T-Shirt,A great addition to your collection.,85.37,Violet,Men's Clothing,4,10
+268,Blouse,A comfortable and stylish piece.,88.54,Green,Women's Clothing,3,6
+269,Shoes,Affordable and durable.,17.7,Green,Accessories,8,2
+270,Handbag,High quality and durable.,87.9,Indigo,Accessories,1,7
+271,Blouse,A great addition to your collection.,96.27,Orange,Women's Clothing,1,5
+272,Dress,High quality and durable.,68.48,Violet,Unisex Clothing,1,4
+273,Blouse,Perfect for any occasion.,95.61,Indigo,Men's Clothing,6,10
+274,Dress,A comfortable and stylish piece.,87.66,Yellow,Accessories,4,5
+275,T-Shirt,Perfect for any occasion.,88.43,Violet,Men's Clothing,2,3
+276,Handbag,A comfortable and stylish piece.,65.04,Green,Unisex Clothing,7,6
+277,Hat,A comfortable and stylish piece.,17.43,Orange,Accessories,5,5
+278,Hat,Trendy and fashionable.,55.49,Orange,Men's Clothing,9,10
+279,Sunglasses,High quality and durable.,27.98,Green,Unisex Clothing,10,5
+280,Blouse,A comfortable and stylish piece.,23.64,Yellow,Unisex Clothing,4,9
+281,Sunglasses,A great addition to your collection.,94.94,Yellow,Men's Clothing,6,4
+282,T-Shirt,Trendy and fashionable.,72.92,Violet,Accessories,1,2
+283,Sunglasses,Made from premium materials.,75.39,Red,Unisex Clothing,2,9
+284,Belt,Elegant and chic.,40.91,Yellow,Men's Clothing,4,2
+285,Belt,Affordable and durable.,97.22,Red,Unisex Clothing,4,4
+286,Jeans,Trendy and fashionable.,13.83,Yellow,Accessories,4,8
+287,Jeans,A comfortable and stylish piece.,71.77,Orange,Men's Clothing,7,8
+288,Belt,A comfortable and stylish piece.,99.8,Green,Accessories,3,10
+289,Hat,Perfect for any occasion.,13.08,Red,Men's Clothing,9,8
+290,Jeans,High quality and durable.,52.84,Green,Unisex Clothing,2,3
+291,Jeans,High quality and durable.,51.17,Blue,Unisex Clothing,7,4
+292,Belt,Elegant and chic.,55.1,Violet,Women's Clothing,1,5
+293,Hoodie,Essential for your wardrobe.,85.18,Violet,Men's Clothing,1,10
+294,Sunglasses,A great addition to your collection.,44.55,Blue,Accessories,2,4
+295,Handbag,A great addition to your collection.,48.08,Yellow,Unisex Clothing,6,1
+296,Sunglasses,Elegant and chic.,71.99,Green,Unisex Clothing,4,9
+297,Belt,Affordable and durable.,49.32,Green,Men's Clothing,3,1
+298,Hat,High quality and durable.,36.61,Indigo,Men's Clothing,6,7
+299,Dress,Versatile and practical.,71.07,Green,Women's Clothing,2,2
+300,Hat,Essential for your wardrobe.,45.24,Blue,Women's Clothing,3,8
+301,Jeans,A comfortable and stylish piece.,28.17,Blue,Accessories,3,3
+302,Jeans,A comfortable and stylish piece.,65.02,Blue,Accessories,4,3
+303,Blouse,A comfortable and stylish piece.,38.71,Green,Men's Clothing,5,4
+304,Blouse,Affordable and durable.,10.06,Red,Unisex Clothing,6,10
+305,Dress,Versatile and practical.,21.5,Green,Unisex Clothing,1,8
+306,Shoes,High quality and durable.,70.1,Green,Men's Clothing,2,5
+307,Hat,Made from premium materials.,24.88,Orange,Men's Clothing,6,10
+308,Hat,A comfortable and stylish piece.,62.06,Yellow,Men's Clothing,9,10
+309,Blouse,Made from premium materials.,10.11,Blue,Women's Clothing,7,10
+310,Sunglasses,Essential for your wardrobe.,35.49,Red,Men's Clothing,5,1
+311,T-Shirt,Trendy and fashionable.,24.99,Green,Men's Clothing,10,5
+312,Hat,Made from premium materials.,38.86,Violet,Unisex Clothing,8,7
+313,Belt,Versatile and practical.,35.93,Red,Unisex Clothing,10,8
+314,Sunglasses,Made from premium materials.,88.7,Green,Accessories,5,6
+315,Jeans,Elegant and chic.,16.23,Indigo,Unisex Clothing,4,1
+316,Hoodie,Essential for your wardrobe.,35.5,Yellow,Women's Clothing,8,2
+317,Hat,Essential for your wardrobe.,47.51,Red,Women's Clothing,9,6
+318,Blouse,A comfortable and stylish piece.,15.84,Indigo,Men's Clothing,9,6
+319,Jeans,Elegant and chic.,97.0,Violet,Men's Clothing,7,1
+320,Handbag,Trendy and fashionable.,23.54,Orange,Accessories,6,1
+321,Handbag,A great addition to your collection.,89.8,Indigo,Unisex Clothing,10,1
+322,Blouse,A great addition to your collection.,75.21,Blue,Women's Clothing,1,6
+323,Shoes,Made from premium materials.,39.63,Red,Accessories,2,10
+324,Blouse,Elegant and chic.,45.2,Blue,Women's Clothing,1,1
+325,Hat,Perfect for any occasion.,62.73,Red,Accessories,2,10
+326,T-Shirt,High quality and durable.,43.51,Blue,Women's Clothing,2,9
+327,Hoodie,High quality and durable.,57.76,Green,Men's Clothing,4,4
+328,Blouse,Trendy and fashionable.,39.27,Green,Unisex Clothing,6,2
+329,Belt,Versatile and practical.,34.1,Indigo,Unisex Clothing,7,1
+330,Dress,Versatile and practical.,13.04,Violet,Unisex Clothing,6,2
+331,Handbag,A comfortable and stylish piece.,27.14,Violet,Unisex Clothing,4,5
+332,Dress,High quality and durable.,26.08,Yellow,Unisex Clothing,7,3
+333,Hoodie,A great addition to your collection.,29.93,Violet,Women's Clothing,10,4
+334,Handbag,Trendy and fashionable.,16.74,Indigo,Women's Clothing,9,4
+335,Shoes,A great addition to your collection.,65.14,Orange,Unisex Clothing,1,3
+336,Sunglasses,Perfect for any occasion.,23.03,Violet,Men's Clothing,2,7
+337,Sunglasses,A great addition to your collection.,45.43,Yellow,Men's Clothing,9,10
+338,T-Shirt,Perfect for any occasion.,99.34,Indigo,Women's Clothing,7,3
+339,Shoes,Versatile and practical.,13.23,Yellow,Women's Clothing,4,6
+340,Hat,A great addition to your collection.,60.2,Orange,Women's Clothing,7,8
+341,Belt,Affordable and durable.,19.8,Indigo,Women's Clothing,7,8
+342,T-Shirt,Made from premium materials.,58.81,Blue,Accessories,1,5
+343,Hat,Versatile and practical.,52.97,Green,Unisex Clothing,2,2
+344,Blouse,High quality and durable.,44.41,Blue,Women's Clothing,1,9
+345,Hoodie,Made from premium materials.,55.6,Orange,Men's Clothing,6,8
+346,Belt,High quality and durable.,52.42,Blue,Women's Clothing,8,9
+347,Blouse,Elegant and chic.,92.42,Green,Men's Clothing,3,9
+348,Handbag,Perfect for any occasion.,88.41,Violet,Women's Clothing,10,7
+349,T-Shirt,High quality and durable.,97.72,Violet,Unisex Clothing,7,8
+350,Hoodie,A great addition to your collection.,26.07,Indigo,Unisex Clothing,6,10
+351,Blouse,Trendy and fashionable.,34.4,Red,Accessories,10,10
+352,Shoes,Perfect for any occasion.,95.16,Indigo,Men's Clothing,9,4
+353,Hoodie,Essential for your wardrobe.,57.06,Orange,Accessories,9,10
+354,Blouse,A great addition to your collection.,48.98,Green,Women's Clothing,10,6
+355,Belt,Made from premium materials.,15.86,Blue,Men's Clothing,10,6
+356,T-Shirt,Perfect for any occasion.,66.39,Orange,Women's Clothing,4,5
+357,Hat,Versatile and practical.,90.28,Red,Men's Clothing,2,7
+358,Shoes,Trendy and fashionable.,98.05,Yellow,Men's Clothing,3,10
+359,Blouse,A comfortable and stylish piece.,10.65,Yellow,Men's Clothing,1,9
+360,Handbag,Affordable and durable.,51.51,Yellow,Accessories,10,8
+361,Shoes,Made from premium materials.,88.4,Yellow,Accessories,10,1
+362,T-Shirt,Made from premium materials.,24.95,Blue,Women's Clothing,9,2
+363,Sunglasses,Perfect for any occasion.,72.42,Orange,Women's Clothing,5,5
+364,Jeans,Trendy and fashionable.,47.79,Blue,Unisex Clothing,5,7
+365,Shoes,Affordable and durable.,17.78,Red,Women's Clothing,4,7
+366,Handbag,Made from premium materials.,13.6,Green,Men's Clothing,3,6
+367,Blouse,Versatile and practical.,45.54,Blue,Women's Clothing,9,4
+368,Hoodie,Elegant and chic.,36.84,Indigo,Women's Clothing,3,10
+369,Hoodie,Essential for your wardrobe.,14.14,Blue,Unisex Clothing,7,4
+370,Shoes,High quality and durable.,72.58,Blue,Women's Clothing,1,3
+371,Shoes,Versatile and practical.,94.09,Orange,Men's Clothing,8,3
+372,Dress,A great addition to your collection.,88.39,Orange,Men's Clothing,7,9
+373,Hoodie,A comfortable and stylish piece.,42.63,Violet,Men's Clothing,1,4
+374,Hoodie,Elegant and chic.,34.47,Orange,Unisex Clothing,3,8
+375,Handbag,Affordable and durable.,18.46,Blue,Women's Clothing,4,1
+376,T-Shirt,Made from premium materials.,47.79,Orange,Accessories,10,8
+377,Sunglasses,Affordable and durable.,80.04,Red,Men's Clothing,8,6
+378,Handbag,Essential for your wardrobe.,25.39,Indigo,Accessories,1,3
+379,Sunglasses,Essential for your wardrobe.,48.43,Green,Accessories,1,5
+380,Blouse,A great addition to your collection.,53.96,Orange,Men's Clothing,9,4
+381,Belt,A comfortable and stylish piece.,30.39,Green,Unisex Clothing,8,2
+382,Jeans,A comfortable and stylish piece.,97.45,Red,Men's Clothing,9,3
+383,Sunglasses,Elegant and chic.,98.92,Yellow,Unisex Clothing,5,3
+384,T-Shirt,Versatile and practical.,44.68,Orange,Women's Clothing,4,8
+385,Blouse,Perfect for any occasion.,37.07,Orange,Accessories,5,3
+386,Hoodie,Versatile and practical.,33.9,Violet,Men's Clothing,3,10
+387,Shoes,Versatile and practical.,38.06,Green,Men's Clothing,6,8
+388,Shoes,Made from premium materials.,76.0,Violet,Accessories,3,6
+389,Hoodie,Versatile and practical.,17.84,Indigo,Men's Clothing,3,2
+390,Dress,A great addition to your collection.,98.06,Yellow,Women's Clothing,5,3
+391,Dress,Made from premium materials.,66.03,Violet,Men's Clothing,2,9
+392,Jeans,A comfortable and stylish piece.,23.16,Blue,Accessories,4,5
+393,Hoodie,Elegant and chic.,36.16,Green,Men's Clothing,6,10
+394,T-Shirt,Perfect for any occasion.,83.31,Green,Men's Clothing,9,1
+395,Shoes,High quality and durable.,89.66,Blue,Women's Clothing,7,9
+396,Dress,Essential for your wardrobe.,32.03,Violet,Accessories,4,4
+397,Jeans,Elegant and chic.,26.79,Blue,Unisex Clothing,6,6
+398,Blouse,Trendy and fashionable.,52.17,Red,Men's Clothing,5,1
+399,T-Shirt,Trendy and fashionable.,48.84,Blue,Unisex Clothing,4,6
+400,Dress,Essential for your wardrobe.,35.58,Orange,Women's Clothing,2,4
+401,Belt,Elegant and chic.,53.39,Orange,Men's Clothing,3,8
+402,Blouse,Elegant and chic.,11.59,Yellow,Accessories,6,4
+403,Belt,A comfortable and stylish piece.,62.01,Yellow,Men's Clothing,2,6
+404,Sunglasses,Versatile and practical.,63.37,Indigo,Accessories,9,4
+405,Blouse,Perfect for any occasion.,46.17,Violet,Unisex Clothing,2,4
+406,Shoes,Essential for your wardrobe.,87.96,Violet,Women's Clothing,4,3
+407,Handbag,Trendy and fashionable.,92.07,Violet,Unisex Clothing,3,2
+408,Jeans,Perfect for any occasion.,91.11,Orange,Unisex Clothing,5,4
+409,Handbag,Made from premium materials.,81.14,Indigo,Women's Clothing,5,5
+410,Sunglasses,Perfect for any occasion.,80.47,Indigo,Men's Clothing,6,2
+411,Blouse,High quality and durable.,86.63,Blue,Women's Clothing,9,1
+412,T-Shirt,Essential for your wardrobe.,39.03,Green,Women's Clothing,3,8
+413,Hat,Essential for your wardrobe.,44.84,Indigo,Unisex Clothing,3,2
+414,Dress,Perfect for any occasion.,54.95,Red,Women's Clothing,2,10
+415,T-Shirt,A great addition to your collection.,68.78,Yellow,Men's Clothing,1,9
+416,Hoodie,Affordable and durable.,37.1,Indigo,Women's Clothing,2,1
+417,Jeans,Made from premium materials.,13.33,Yellow,Accessories,4,1
+418,Hoodie,A great addition to your collection.,46.6,Indigo,Men's Clothing,1,2
+419,Sunglasses,Trendy and fashionable.,36.05,Red,Women's Clothing,9,7
+420,Blouse,A comfortable and stylish piece.,12.97,Blue,Men's Clothing,10,1
+421,Hat,Versatile and practical.,63.16,Green,Accessories,3,9
+422,Blouse,Affordable and durable.,91.3,Orange,Men's Clothing,2,2
+423,T-Shirt,Elegant and chic.,50.69,Orange,Unisex Clothing,4,8
+424,Jeans,Made from premium materials.,61.48,Indigo,Women's Clothing,8,5
+425,Hat,High quality and durable.,77.42,Yellow,Accessories,8,1
+426,Handbag,High quality and durable.,79.42,Violet,Accessories,3,5
+427,Jeans,High quality and durable.,55.03,Yellow,Accessories,3,2
+428,Hoodie,Perfect for any occasion.,73.2,Indigo,Women's Clothing,5,10
+429,Handbag,A comfortable and stylish piece.,11.52,Orange,Women's Clothing,4,4
+430,Sunglasses,A great addition to your collection.,76.96,Orange,Women's Clothing,4,8
+431,Jeans,Made from premium materials.,85.16,Violet,Unisex Clothing,4,8
+432,Shoes,High quality and durable.,65.72,Violet,Men's Clothing,4,6
+433,Belt,Perfect for any occasion.,41.53,Green,Women's Clothing,7,3
+434,Hoodie,High quality and durable.,42.24,Blue,Men's Clothing,2,8
+435,Jeans,A comfortable and stylish piece.,87.87,Blue,Accessories,9,7
+436,Jeans,Versatile and practical.,10.27,Indigo,Men's Clothing,6,1
+437,Shoes,A great addition to your collection.,11.83,Yellow,Unisex Clothing,9,3
+438,Hat,Affordable and durable.,97.02,Orange,Unisex Clothing,7,9
+439,Blouse,Perfect for any occasion.,57.96,Blue,Men's Clothing,2,7
+440,Belt,Elegant and chic.,55.23,Indigo,Men's Clothing,5,5
+441,Jeans,Elegant and chic.,57.3,Green,Men's Clothing,5,5
+442,T-Shirt,High quality and durable.,21.04,Green,Accessories,10,6
+443,Hoodie,Elegant and chic.,10.03,Orange,Accessories,7,6
+444,Hoodie,Made from premium materials.,37.73,Indigo,Men's Clothing,6,7
+445,Hat,Elegant and chic.,36.75,Yellow,Accessories,9,4
+446,Handbag,A great addition to your collection.,12.28,Violet,Men's Clothing,4,1
+447,Shoes,Perfect for any occasion.,25.31,Yellow,Women's Clothing,5,4
+448,T-Shirt,Trendy and fashionable.,18.36,Blue,Accessories,8,6
+449,Shoes,A comfortable and stylish piece.,67.44,Orange,Unisex Clothing,7,2
+450,Sunglasses,A great addition to your collection.,48.66,Indigo,Accessories,6,3
+451,Shoes,Made from premium materials.,79.51,Violet,Men's Clothing,7,7
+452,Blouse,Trendy and fashionable.,74.48,Red,Women's Clothing,7,3
+453,Belt,High quality and durable.,55.55,Indigo,Women's Clothing,9,6
+454,Blouse,Perfect for any occasion.,27.37,Red,Unisex Clothing,6,3
+455,Shoes,High quality and durable.,12.89,Orange,Men's Clothing,2,4
+456,Hoodie,Versatile and practical.,73.59,Yellow,Men's Clothing,3,8
+457,Jeans,Trendy and fashionable.,37.67,Yellow,Women's Clothing,7,3
+458,Hoodie,Elegant and chic.,53.67,Indigo,Unisex Clothing,6,9
+459,Dress,A great addition to your collection.,59.29,Orange,Men's Clothing,10,5
+460,T-Shirt,High quality and durable.,94.36,Orange,Women's Clothing,7,5
+461,Jeans,Essential for your wardrobe.,11.5,Green,Women's Clothing,4,8
+462,Jeans,Made from premium materials.,26.67,Violet,Unisex Clothing,5,5
+463,Shoes,Affordable and durable.,70.62,Violet,Women's Clothing,2,2
+464,Sunglasses,A comfortable and stylish piece.,66.83,Green,Women's Clothing,8,1
+465,Jeans,Elegant and chic.,73.07,Red,Men's Clothing,1,9
+466,T-Shirt,Elegant and chic.,17.56,Indigo,Men's Clothing,7,3
+467,Hat,Trendy and fashionable.,59.34,Red,Unisex Clothing,2,4
+468,Belt,Affordable and durable.,99.19,Green,Unisex Clothing,10,9
+469,Shoes,Versatile and practical.,52.72,Orange,Women's Clothing,7,10
+470,Hat,Essential for your wardrobe.,24.24,Indigo,Accessories,5,2
+471,Belt,Elegant and chic.,26.07,Orange,Women's Clothing,10,7
+472,Jeans,High quality and durable.,34.25,Red,Women's Clothing,1,4
+473,Shoes,High quality and durable.,86.29,Indigo,Men's Clothing,7,10
+474,Hat,A great addition to your collection.,11.83,Green,Men's Clothing,2,8
+475,Shoes,Trendy and fashionable.,90.41,Red,Unisex Clothing,8,9
+476,Dress,Made from premium materials.,86.96,Yellow,Unisex Clothing,3,8
+477,Belt,Made from premium materials.,61.98,Yellow,Unisex Clothing,8,10
+478,T-Shirt,Affordable and durable.,45.23,Green,Men's Clothing,4,8
+479,Handbag,A great addition to your collection.,27.93,Orange,Women's Clothing,8,10
+480,Blouse,A comfortable and stylish piece.,97.49,Red,Men's Clothing,5,4
+481,Jeans,Trendy and fashionable.,85.31,Yellow,Women's Clothing,9,3
+482,Belt,High quality and durable.,21.16,Red,Women's Clothing,5,3
+483,Jeans,Affordable and durable.,16.11,Indigo,Unisex Clothing,2,1
+484,Hoodie,High quality and durable.,67.29,Orange,Accessories,9,8
+485,Jeans,Perfect for any occasion.,41.11,Indigo,Men's Clothing,3,6
+486,Shoes,A great addition to your collection.,70.77,Yellow,Accessories,2,4
+487,Dress,Versatile and practical.,69.36,Red,Women's Clothing,6,3
+488,Hat,Perfect for any occasion.,89.13,Blue,Accessories,1,4
+489,Blouse,Made from premium materials.,81.48,Red,Women's Clothing,5,5
+490,Sunglasses,Affordable and durable.,62.5,Yellow,Unisex Clothing,3,1
+491,Jeans,High quality and durable.,79.96,Orange,Men's Clothing,7,5
+492,T-Shirt,Perfect for any occasion.,62.47,Green,Unisex Clothing,7,4
+493,Belt,Elegant and chic.,42.63,Violet,Men's Clothing,7,2
+494,Dress,A comfortable and stylish piece.,77.68,Indigo,Unisex Clothing,2,5
+495,Dress,Made from premium materials.,27.9,Indigo,Accessories,3,3
+496,Sunglasses,High quality and durable.,11.99,Orange,Women's Clothing,6,4
+497,Hoodie,Versatile and practical.,45.22,Yellow,Men's Clothing,1,1
+498,T-Shirt,Versatile and practical.,32.72,Green,Men's Clothing,3,7
+499,Jeans,Perfect for any occasion.,82.96,Indigo,Accessories,4,9
+500,Hoodie,Elegant and chic.,71.54,Orange,Women's Clothing,1,1
+501,Sunglasses,Elegant and chic.,53.3,Indigo,Women's Clothing,7,2
+502,T-Shirt,Trendy and fashionable.,75.77,Violet,Men's Clothing,9,6
+503,Sunglasses,Elegant and chic.,83.27,Red,Men's Clothing,2,2
+504,T-Shirt,Affordable and durable.,12.5,Blue,Unisex Clothing,2,3
+505,Sunglasses,Trendy and fashionable.,41.27,Orange,Unisex Clothing,10,1
+506,Sunglasses,Essential for your wardrobe.,18.66,Blue,Accessories,2,10
+507,Jeans,Elegant and chic.,87.14,Violet,Accessories,6,2
+508,Blouse,High quality and durable.,44.75,Violet,Unisex Clothing,3,2
+509,Handbag,Trendy and fashionable.,68.52,Violet,Unisex Clothing,10,10
+510,Belt,Perfect for any occasion.,93.44,Blue,Accessories,3,9
+511,Belt,High quality and durable.,76.01,Green,Men's Clothing,5,3
+512,Blouse,Perfect for any occasion.,84.12,Orange,Unisex Clothing,10,7
+513,Jeans,Made from premium materials.,46.74,Red,Men's Clothing,7,7
+514,Hat,Perfect for any occasion.,40.73,Blue,Women's Clothing,1,10
+515,Hat,A comfortable and stylish piece.,81.82,Orange,Accessories,5,10
+516,Handbag,Versatile and practical.,34.22,Red,Accessories,10,10
+517,Jeans,High quality and durable.,60.52,Orange,Accessories,5,4
+518,Jeans,Essential for your wardrobe.,68.88,Yellow,Accessories,9,10
+519,Blouse,A comfortable and stylish piece.,29.8,Red,Women's Clothing,4,7
+520,T-Shirt,Affordable and durable.,80.13,Violet,Unisex Clothing,3,10
+521,Sunglasses,High quality and durable.,99.8,Indigo,Women's Clothing,5,7
+522,Sunglasses,Perfect for any occasion.,23.0,Red,Accessories,8,2
+523,Handbag,Affordable and durable.,20.3,Violet,Men's Clothing,3,8
+524,Shoes,High quality and durable.,72.38,Orange,Women's Clothing,7,3
+525,Sunglasses,A comfortable and stylish piece.,85.54,Yellow,Men's Clothing,1,6
+526,T-Shirt,Elegant and chic.,94.87,Violet,Men's Clothing,4,2
+527,Hoodie,Affordable and durable.,45.4,Indigo,Women's Clothing,2,3
+528,Shoes,A great addition to your collection.,73.58,Yellow,Unisex Clothing,7,5
+529,Hat,Perfect for any occasion.,43.65,Indigo,Women's Clothing,7,2
+530,Handbag,High quality and durable.,22.5,Green,Unisex Clothing,8,9
+531,Jeans,Perfect for any occasion.,88.71,Green,Men's Clothing,6,7
+532,Jeans,Trendy and fashionable.,92.04,Orange,Unisex Clothing,5,4
+533,Hoodie,Elegant and chic.,70.11,Indigo,Unisex Clothing,5,9
+534,Handbag,Made from premium materials.,95.65,Green,Men's Clothing,9,10
+535,Jeans,A comfortable and stylish piece.,88.29,Yellow,Men's Clothing,1,10
+536,Belt,Elegant and chic.,90.24,Green,Men's Clothing,7,9
+537,Belt,A comfortable and stylish piece.,97.27,Red,Men's Clothing,8,8
+538,Hat,A great addition to your collection.,73.62,Orange,Women's Clothing,10,3
+539,Belt,Versatile and practical.,41.48,Orange,Accessories,9,4
+540,Handbag,Made from premium materials.,75.15,Blue,Unisex Clothing,5,9
+541,Handbag,Perfect for any occasion.,75.66,Blue,Women's Clothing,10,10
+542,Jeans,A great addition to your collection.,30.09,Green,Women's Clothing,1,1
+543,Hoodie,Versatile and practical.,39.25,Indigo,Unisex Clothing,3,5
+544,Shoes,Essential for your wardrobe.,88.19,Red,Accessories,7,1
+545,Dress,Made from premium materials.,13.39,Violet,Women's Clothing,5,8
+546,Jeans,Perfect for any occasion.,99.11,Yellow,Women's Clothing,9,7
+547,Sunglasses,Essential for your wardrobe.,86.47,Yellow,Accessories,7,4
+548,Dress,Made from premium materials.,47.86,Blue,Women's Clothing,6,9
+549,Dress,Made from premium materials.,49.07,Violet,Accessories,7,1
+550,Shoes,Affordable and durable.,92.76,Blue,Women's Clothing,6,5
+551,Handbag,Made from premium materials.,33.14,Red,Men's Clothing,3,5
+552,Jeans,Affordable and durable.,63.94,Green,Women's Clothing,9,7
+553,Hat,Essential for your wardrobe.,35.42,Orange,Accessories,4,4
+554,T-Shirt,A great addition to your collection.,58.64,Blue,Women's Clothing,7,8
+555,Hat,Perfect for any occasion.,55.18,Blue,Men's Clothing,1,9
+556,Dress,Versatile and practical.,43.01,Orange,Men's Clothing,7,6
+557,Sunglasses,Essential for your wardrobe.,96.15,Green,Men's Clothing,6,4
+558,Handbag,Essential for your wardrobe.,71.96,Violet,Men's Clothing,2,4
+559,Handbag,A great addition to your collection.,24.71,Red,Unisex Clothing,10,9
+560,Handbag,Essential for your wardrobe.,51.66,Green,Accessories,9,6
+561,Dress,High quality and durable.,15.31,Indigo,Men's Clothing,9,7
+562,Sunglasses,A great addition to your collection.,17.33,Green,Women's Clothing,7,9
+563,Belt,Essential for your wardrobe.,49.72,Red,Unisex Clothing,6,3
+564,T-Shirt,Made from premium materials.,49.42,Violet,Men's Clothing,8,6
+565,Shoes,High quality and durable.,55.58,Red,Women's Clothing,2,2
+566,Dress,Made from premium materials.,58.07,Violet,Accessories,5,9
+567,Sunglasses,A great addition to your collection.,24.03,Violet,Accessories,1,4
+568,Belt,Versatile and practical.,91.02,Blue,Women's Clothing,10,4
+569,Hat,Elegant and chic.,51.09,Green,Accessories,7,5
+570,Blouse,Essential for your wardrobe.,63.48,Green,Accessories,1,2
+571,Hat,Affordable and durable.,80.3,Violet,Accessories,7,1
+572,Hat,Trendy and fashionable.,62.57,Yellow,Women's Clothing,10,9
+573,Jeans,High quality and durable.,79.6,Indigo,Men's Clothing,2,7
+574,Dress,High quality and durable.,68.54,Violet,Women's Clothing,5,2
+575,Hoodie,Versatile and practical.,83.7,Orange,Men's Clothing,2,6
+576,Dress,Made from premium materials.,90.59,Yellow,Accessories,1,1
+577,Belt,Versatile and practical.,15.14,Yellow,Accessories,7,1
+578,Sunglasses,A comfortable and stylish piece.,30.26,Red,Men's Clothing,4,2
+579,Dress,Versatile and practical.,89.66,Violet,Unisex Clothing,2,8
+580,Sunglasses,Affordable and durable.,94.4,Orange,Women's Clothing,6,2
+581,T-Shirt,High quality and durable.,28.39,Orange,Men's Clothing,8,4
+582,Shoes,Perfect for any occasion.,79.58,Blue,Unisex Clothing,3,7
+583,Jeans,Perfect for any occasion.,75.01,Violet,Unisex Clothing,6,2
+584,Handbag,A great addition to your collection.,82.4,Orange,Women's Clothing,8,3
+585,Hoodie,A comfortable and stylish piece.,24.48,Yellow,Unisex Clothing,7,2
+586,Handbag,Essential for your wardrobe.,46.88,Orange,Women's Clothing,4,9
+587,Belt,Elegant and chic.,37.93,Yellow,Accessories,10,10
+588,T-Shirt,Made from premium materials.,13.21,Green,Women's Clothing,2,6
+589,Sunglasses,Elegant and chic.,12.0,Blue,Men's Clothing,6,7
+590,Blouse,Essential for your wardrobe.,73.73,Orange,Men's Clothing,6,5
+591,Blouse,A comfortable and stylish piece.,95.49,Violet,Women's Clothing,1,10
+592,Handbag,Trendy and fashionable.,71.02,Red,Unisex Clothing,5,2
+593,Hat,High quality and durable.,12.22,Violet,Women's Clothing,9,5
+594,Sunglasses,Made from premium materials.,36.88,Green,Unisex Clothing,4,3
+595,Hat,Essential for your wardrobe.,29.33,Indigo,Accessories,5,9
+596,Sunglasses,Trendy and fashionable.,64.03,Blue,Women's Clothing,9,2
+597,Hat,High quality and durable.,37.4,Red,Women's Clothing,6,5
+598,T-Shirt,Trendy and fashionable.,44.22,Violet,Men's Clothing,9,4
+599,Hat,Affordable and durable.,86.96,Red,Unisex Clothing,7,10
+600,T-Shirt,Essential for your wardrobe.,68.62,Blue,Accessories,3,6
+601,T-Shirt,Versatile and practical.,52.32,Green,Unisex Clothing,5,10
+602,Belt,A comfortable and stylish piece.,78.87,Yellow,Women's Clothing,5,1
+603,Handbag,Affordable and durable.,49.57,Indigo,Men's Clothing,6,2
+604,Sunglasses,Essential for your wardrobe.,45.18,Green,Women's Clothing,6,5
+605,Belt,Trendy and fashionable.,47.2,Blue,Unisex Clothing,6,5
+606,Blouse,Elegant and chic.,39.74,Blue,Men's Clothing,9,8
+607,Belt,Perfect for any occasion.,76.96,Indigo,Unisex Clothing,1,6
+608,Belt,Elegant and chic.,29.87,Orange,Unisex Clothing,7,7
+609,Jeans,Essential for your wardrobe.,79.85,Blue,Unisex Clothing,2,4
+610,Dress,A comfortable and stylish piece.,65.4,Orange,Accessories,10,4
+611,Jeans,Affordable and durable.,15.63,Red,Women's Clothing,8,9
+612,Handbag,Essential for your wardrobe.,79.98,Green,Unisex Clothing,5,9
+613,Hoodie,A comfortable and stylish piece.,22.62,Indigo,Unisex Clothing,1,1
+614,Belt,Made from premium materials.,20.82,Orange,Accessories,4,10
+615,Shoes,A great addition to your collection.,12.38,Yellow,Unisex Clothing,1,8
+616,Shoes,Essential for your wardrobe.,68.59,Orange,Women's Clothing,6,4
+617,Sunglasses,Perfect for any occasion.,73.02,Indigo,Unisex Clothing,5,5
+618,Sunglasses,Made from premium materials.,99.35,Indigo,Women's Clothing,1,7
+619,Jeans,Versatile and practical.,32.54,Green,Unisex Clothing,4,5
+620,Shoes,Trendy and fashionable.,30.27,Red,Accessories,4,5
+621,Hoodie,Affordable and durable.,96.89,Indigo,Men's Clothing,10,3
+622,Hat,Essential for your wardrobe.,84.46,Violet,Accessories,10,5
+623,Blouse,Elegant and chic.,98.7,Red,Men's Clothing,1,4
+624,Handbag,Perfect for any occasion.,42.48,Red,Accessories,1,2
+625,Belt,A comfortable and stylish piece.,65.32,Green,Unisex Clothing,2,10
+626,Hoodie,Perfect for any occasion.,16.91,Green,Men's Clothing,10,1
+627,Jeans,Made from premium materials.,73.73,Red,Women's Clothing,9,2
+628,Dress,Elegant and chic.,65.3,Green,Men's Clothing,3,10
+629,Handbag,Perfect for any occasion.,64.45,Violet,Unisex Clothing,4,9
+630,Hoodie,A great addition to your collection.,83.23,Orange,Unisex Clothing,2,7
+631,Shoes,Trendy and fashionable.,73.87,Green,Women's Clothing,2,3
+632,Shoes,Made from premium materials.,92.34,Green,Men's Clothing,8,1
+633,Jeans,Versatile and practical.,48.86,Green,Unisex Clothing,5,4
+634,Hoodie,Essential for your wardrobe.,39.72,Indigo,Men's Clothing,8,5
+635,Blouse,Made from premium materials.,10.07,Blue,Women's Clothing,6,9
+636,Hoodie,Affordable and durable.,98.08,Green,Men's Clothing,1,5
+637,Blouse,A comfortable and stylish piece.,94.64,Indigo,Accessories,5,1
+638,Handbag,High quality and durable.,30.2,Yellow,Unisex Clothing,10,1
+639,Blouse,Versatile and practical.,61.77,Red,Women's Clothing,10,7
+640,Belt,Elegant and chic.,22.99,Violet,Men's Clothing,6,9
+641,Dress,Versatile and practical.,23.96,Green,Accessories,3,8
+642,Jeans,Perfect for any occasion.,91.63,Orange,Unisex Clothing,9,3
+643,Sunglasses,Affordable and durable.,17.53,Indigo,Women's Clothing,5,5
+644,Sunglasses,Elegant and chic.,33.35,Violet,Women's Clothing,7,5
+645,Sunglasses,Affordable and durable.,11.47,Violet,Men's Clothing,4,9
+646,Jeans,Affordable and durable.,25.35,Indigo,Women's Clothing,9,6
+647,Blouse,Versatile and practical.,94.35,Blue,Accessories,7,4
+648,Jeans,Essential for your wardrobe.,30.43,Red,Men's Clothing,8,6
+649,Shoes,A comfortable and stylish piece.,60.41,Green,Unisex Clothing,6,3
+650,Hat,Essential for your wardrobe.,15.49,Indigo,Unisex Clothing,8,1
+651,Hat,Versatile and practical.,62.2,Orange,Accessories,6,3
+652,Hoodie,Elegant and chic.,21.64,Orange,Accessories,6,8
+653,Jeans,High quality and durable.,58.74,Violet,Accessories,3,2
+654,Handbag,Trendy and fashionable.,49.56,Red,Accessories,6,5
+655,Blouse,Elegant and chic.,56.94,Indigo,Women's Clothing,5,3
+656,Jeans,High quality and durable.,11.34,Blue,Unisex Clothing,1,8
+657,T-Shirt,Affordable and durable.,30.21,Green,Accessories,5,2
+658,Hoodie,Essential for your wardrobe.,32.37,Blue,Unisex Clothing,7,9
+659,Dress,Affordable and durable.,26.06,Yellow,Men's Clothing,1,6
+660,Jeans,A comfortable and stylish piece.,36.81,Orange,Men's Clothing,4,10
+661,Hat,High quality and durable.,62.15,Orange,Unisex Clothing,8,10
+662,Belt,A great addition to your collection.,60.46,Violet,Accessories,4,3
+663,Jeans,Elegant and chic.,95.77,Blue,Unisex Clothing,10,9
+664,Sunglasses,Made from premium materials.,95.05,Green,Women's Clothing,7,6
+665,Blouse,Trendy and fashionable.,38.0,Orange,Unisex Clothing,8,5
+666,Belt,Affordable and durable.,37.07,Yellow,Men's Clothing,7,9
+667,Hoodie,High quality and durable.,94.46,Red,Unisex Clothing,9,10
+668,Hoodie,High quality and durable.,50.52,Green,Men's Clothing,2,7
+669,T-Shirt,A great addition to your collection.,79.8,Red,Women's Clothing,10,10
+670,Belt,Trendy and fashionable.,81.71,Violet,Unisex Clothing,10,9
+671,Shoes,Affordable and durable.,59.93,Yellow,Men's Clothing,4,8
+672,Handbag,Versatile and practical.,91.12,Green,Accessories,4,10
+673,Sunglasses,Versatile and practical.,21.63,Blue,Men's Clothing,2,6
+674,Shoes,Perfect for any occasion.,25.94,Red,Unisex Clothing,8,6
+675,Blouse,Elegant and chic.,41.34,Green,Unisex Clothing,8,8
+676,Sunglasses,A great addition to your collection.,73.5,Indigo,Men's Clothing,4,6
+677,Belt,Perfect for any occasion.,90.36,Blue,Women's Clothing,6,2
+678,Dress,Essential for your wardrobe.,82.69,Green,Women's Clothing,9,8
+679,Handbag,Perfect for any occasion.,56.55,Red,Accessories,6,2
+680,Dress,Perfect for any occasion.,65.86,Blue,Women's Clothing,6,1
+681,Shoes,Affordable and durable.,58.24,Green,Accessories,6,1
+682,Jeans,Elegant and chic.,86.87,Indigo,Women's Clothing,2,7
+683,Shoes,Versatile and practical.,37.27,Green,Accessories,8,3
+684,Belt,A comfortable and stylish piece.,68.43,Indigo,Unisex Clothing,1,6
+685,T-Shirt,A comfortable and stylish piece.,45.55,Blue,Unisex Clothing,7,1
+686,Blouse,A great addition to your collection.,25.32,Blue,Accessories,6,5
+687,Dress,Essential for your wardrobe.,58.3,Blue,Women's Clothing,8,4
+688,Sunglasses,Affordable and durable.,46.93,Red,Unisex Clothing,9,5
+689,Dress,Essential for your wardrobe.,34.32,Orange,Men's Clothing,3,6
+690,T-Shirt,A great addition to your collection.,30.94,Blue,Unisex Clothing,2,5
+691,Hat,High quality and durable.,38.76,Violet,Women's Clothing,10,5
+692,Belt,Affordable and durable.,79.32,Green,Men's Clothing,1,5
+693,Dress,Made from premium materials.,85.07,Red,Men's Clothing,6,3
+694,T-Shirt,Perfect for any occasion.,15.27,Orange,Men's Clothing,6,10
+695,Dress,Essential for your wardrobe.,16.77,Yellow,Men's Clothing,7,8
+696,Sunglasses,Affordable and durable.,11.36,Green,Men's Clothing,4,1
+697,Hoodie,Elegant and chic.,55.52,Violet,Unisex Clothing,8,5
+698,Belt,A great addition to your collection.,71.96,Blue,Unisex Clothing,5,2
+699,Jeans,A comfortable and stylish piece.,31.06,Blue,Women's Clothing,9,9
+700,Blouse,Essential for your wardrobe.,20.61,Orange,Accessories,3,8
+701,Belt,Versatile and practical.,11.17,Orange,Accessories,6,7
+702,Hoodie,Versatile and practical.,91.1,Green,Men's Clothing,1,1
+703,Handbag,A great addition to your collection.,21.34,Blue,Women's Clothing,2,4
+704,Jeans,Essential for your wardrobe.,26.24,Violet,Women's Clothing,4,5
+705,Hoodie,Essential for your wardrobe.,21.68,Indigo,Men's Clothing,2,1
+706,Dress,Made from premium materials.,18.15,Blue,Women's Clothing,5,10
+707,Handbag,Essential for your wardrobe.,45.0,Yellow,Unisex Clothing,3,5
+708,Hat,A great addition to your collection.,57.14,Indigo,Unisex Clothing,7,8
+709,Sunglasses,Trendy and fashionable.,10.72,Blue,Accessories,1,1
+710,Handbag,Affordable and durable.,89.6,Red,Unisex Clothing,4,3
+711,Dress,Versatile and practical.,92.6,Orange,Men's Clothing,10,7
+712,T-Shirt,Essential for your wardrobe.,63.05,Green,Men's Clothing,6,4
+713,Dress,Elegant and chic.,17.93,Yellow,Unisex Clothing,6,2
+714,Shoes,Essential for your wardrobe.,55.98,Green,Women's Clothing,4,8
+715,Handbag,Trendy and fashionable.,52.34,Yellow,Unisex Clothing,10,8
+716,Sunglasses,High quality and durable.,54.65,Violet,Accessories,8,10
+717,Shoes,A comfortable and stylish piece.,48.58,Red,Unisex Clothing,7,6
+718,Dress,Affordable and durable.,34.69,Blue,Accessories,4,2
+719,Belt,Versatile and practical.,15.61,Green,Unisex Clothing,8,7
+720,Sunglasses,A great addition to your collection.,95.82,Green,Men's Clothing,6,8
+721,Blouse,A comfortable and stylish piece.,67.35,Violet,Unisex Clothing,8,1
+722,Hoodie,A comfortable and stylish piece.,96.26,Indigo,Women's Clothing,2,10
+723,Belt,Perfect for any occasion.,73.41,Yellow,Women's Clothing,1,9
+724,Blouse,Trendy and fashionable.,21.64,Green,Unisex Clothing,6,2
+725,Shoes,Versatile and practical.,66.01,Red,Accessories,4,7
+726,Belt,Versatile and practical.,59.67,Green,Unisex Clothing,8,1
+727,Hat,Elegant and chic.,46.33,Red,Unisex Clothing,6,7
+728,Handbag,Trendy and fashionable.,32.63,Green,Women's Clothing,10,7
+729,T-Shirt,Made from premium materials.,46.13,Orange,Accessories,2,7
+730,Jeans,Versatile and practical.,81.17,Indigo,Women's Clothing,5,2
+731,Handbag,Affordable and durable.,98.05,Orange,Women's Clothing,10,10
+732,Hoodie,High quality and durable.,65.94,Blue,Women's Clothing,1,8
+733,Dress,A great addition to your collection.,88.13,Violet,Unisex Clothing,6,9
+734,Jeans,Perfect for any occasion.,19.49,Indigo,Unisex Clothing,2,8
+735,Dress,High quality and durable.,83.2,Green,Women's Clothing,9,10
+736,Dress,Elegant and chic.,13.98,Green,Unisex Clothing,4,1
+737,Sunglasses,High quality and durable.,86.03,Green,Unisex Clothing,3,8
+738,Hoodie,Elegant and chic.,52.49,Red,Unisex Clothing,4,8
+739,Dress,High quality and durable.,29.75,Indigo,Women's Clothing,8,6
+740,Jeans,Trendy and fashionable.,20.38,Indigo,Men's Clothing,4,9
+741,Dress,A great addition to your collection.,82.16,Violet,Accessories,4,9
+742,T-Shirt,Elegant and chic.,90.12,Indigo,Accessories,10,2
+743,Shoes,Essential for your wardrobe.,56.06,Red,Unisex Clothing,10,6
+744,Jeans,Trendy and fashionable.,53.16,Indigo,Unisex Clothing,8,2
+745,Hat,Trendy and fashionable.,28.93,Violet,Women's Clothing,2,6
+746,Blouse,Versatile and practical.,88.89,Red,Men's Clothing,3,3
+747,Handbag,Elegant and chic.,87.58,Green,Women's Clothing,2,9
+748,Sunglasses,High quality and durable.,61.76,Blue,Unisex Clothing,7,4
+749,Jeans,Affordable and durable.,37.75,Green,Men's Clothing,6,2
+750,Hoodie,Versatile and practical.,33.44,Blue,Women's Clothing,7,9
+751,Belt,High quality and durable.,70.37,Orange,Men's Clothing,5,4
+752,Jeans,Trendy and fashionable.,92.66,Blue,Unisex Clothing,1,6
+753,Belt,High quality and durable.,95.57,Indigo,Unisex Clothing,4,5
+754,Handbag,Versatile and practical.,40.1,Violet,Women's Clothing,10,8
+755,Blouse,A comfortable and stylish piece.,23.86,Violet,Accessories,5,4
+756,T-Shirt,Essential for your wardrobe.,54.76,Green,Men's Clothing,2,1
+757,Shoes,A comfortable and stylish piece.,81.7,Indigo,Accessories,1,6
+758,Belt,Affordable and durable.,50.74,Blue,Men's Clothing,4,5
+759,T-Shirt,Made from premium materials.,77.37,Orange,Men's Clothing,1,4
+760,T-Shirt,High quality and durable.,74.82,Red,Unisex Clothing,3,1
+761,Handbag,Affordable and durable.,43.09,Orange,Unisex Clothing,3,3
+762,Dress,Essential for your wardrobe.,80.07,Indigo,Unisex Clothing,3,8
+763,Jeans,Affordable and durable.,71.33,Red,Accessories,4,3
+764,Dress,Elegant and chic.,16.35,Yellow,Men's Clothing,8,4
+765,Sunglasses,Trendy and fashionable.,70.83,Orange,Accessories,8,9
+766,Jeans,A comfortable and stylish piece.,66.76,Orange,Accessories,6,10
+767,Blouse,Versatile and practical.,82.74,Violet,Women's Clothing,8,10
+768,Dress,High quality and durable.,24.87,Yellow,Accessories,7,6
+769,Hat,Versatile and practical.,53.01,Violet,Men's Clothing,5,6
+770,Sunglasses,High quality and durable.,23.89,Orange,Men's Clothing,2,4
+771,Jeans,A comfortable and stylish piece.,43.63,Yellow,Unisex Clothing,1,10
+772,Jeans,Versatile and practical.,59.63,Blue,Women's Clothing,3,10
+773,Belt,Affordable and durable.,41.58,Green,Unisex Clothing,7,7
+774,Hat,Elegant and chic.,56.09,Yellow,Women's Clothing,2,10
+775,Handbag,Elegant and chic.,17.4,Blue,Unisex Clothing,10,3
+776,Dress,Elegant and chic.,52.33,Blue,Accessories,6,9
+777,Hoodie,Elegant and chic.,77.77,Yellow,Accessories,4,5
+778,Sunglasses,Versatile and practical.,83.96,Red,Accessories,5,7
+779,Belt,Versatile and practical.,63.71,Red,Accessories,3,2
+780,Jeans,Affordable and durable.,90.42,Orange,Women's Clothing,8,4
+781,Belt,A comfortable and stylish piece.,86.86,Red,Unisex Clothing,7,10
+782,Hat,Trendy and fashionable.,68.19,Red,Women's Clothing,6,9
+783,Jeans,A comfortable and stylish piece.,42.38,Green,Accessories,4,5
+784,Shoes,Versatile and practical.,18.67,Violet,Men's Clothing,3,10
+785,Dress,Trendy and fashionable.,15.67,Green,Men's Clothing,9,6
+786,Blouse,High quality and durable.,72.15,Red,Unisex Clothing,5,1
+787,Blouse,Affordable and durable.,49.83,Green,Women's Clothing,4,8
+788,T-Shirt,High quality and durable.,54.41,Indigo,Unisex Clothing,6,10
+789,Handbag,Elegant and chic.,13.9,Blue,Unisex Clothing,2,5
+790,Blouse,Versatile and practical.,56.78,Blue,Unisex Clothing,6,6
+791,Handbag,Essential for your wardrobe.,78.59,Red,Women's Clothing,10,9
+792,Hoodie,A great addition to your collection.,52.86,Yellow,Women's Clothing,4,6
+793,Blouse,A comfortable and stylish piece.,25.38,Blue,Accessories,4,4
+794,Hoodie,High quality and durable.,73.0,Orange,Accessories,2,6
+795,Dress,Elegant and chic.,75.8,Indigo,Accessories,4,3
+796,Handbag,Versatile and practical.,49.2,Blue,Men's Clothing,2,10
+797,Hoodie,A comfortable and stylish piece.,46.6,Orange,Accessories,4,1
+798,Blouse,Made from premium materials.,34.91,Orange,Women's Clothing,2,1
+799,Dress,Elegant and chic.,96.2,Red,Women's Clothing,9,4
+800,Hat,A comfortable and stylish piece.,61.41,Red,Women's Clothing,8,1
+801,Sunglasses,Made from premium materials.,33.77,Blue,Accessories,10,8
+802,Handbag,Perfect for any occasion.,21.98,Indigo,Accessories,3,6
+803,Belt,High quality and durable.,58.48,Orange,Accessories,4,8
+804,Shoes,Made from premium materials.,36.96,Violet,Women's Clothing,3,2
+805,T-Shirt,A comfortable and stylish piece.,67.87,Yellow,Women's Clothing,9,6
+806,Handbag,Versatile and practical.,15.29,Blue,Women's Clothing,4,1
+807,Shoes,A comfortable and stylish piece.,19.65,Yellow,Men's Clothing,2,8
+808,Shoes,Trendy and fashionable.,71.04,Green,Unisex Clothing,7,10
+809,Handbag,Perfect for any occasion.,28.17,Green,Women's Clothing,3,7
+810,Dress,Affordable and durable.,71.33,Green,Unisex Clothing,6,9
+811,Blouse,High quality and durable.,10.08,Indigo,Men's Clothing,2,9
+812,Hoodie,Essential for your wardrobe.,65.05,Green,Accessories,7,10
+813,Jeans,A comfortable and stylish piece.,29.64,Green,Unisex Clothing,4,1
+814,Sunglasses,Versatile and practical.,59.29,Indigo,Accessories,8,6
+815,Jeans,Versatile and practical.,43.17,Blue,Women's Clothing,2,9
+816,Jeans,Essential for your wardrobe.,84.29,Yellow,Accessories,4,1
+817,Handbag,A great addition to your collection.,94.8,Green,Men's Clothing,8,5
+818,Shoes,Elegant and chic.,57.27,Violet,Men's Clothing,7,5
+819,Hoodie,High quality and durable.,14.19,Violet,Unisex Clothing,8,4
+820,Hoodie,A great addition to your collection.,48.4,Orange,Accessories,9,8
+821,Handbag,High quality and durable.,78.42,Yellow,Unisex Clothing,4,5
+822,Shoes,Made from premium materials.,97.09,Red,Accessories,3,5
+823,Hoodie,Trendy and fashionable.,50.24,Orange,Unisex Clothing,10,5
+824,Hat,High quality and durable.,45.72,Blue,Men's Clothing,7,10
+825,Belt,A great addition to your collection.,32.13,Indigo,Women's Clothing,9,9
+826,Hoodie,A great addition to your collection.,52.62,Yellow,Men's Clothing,9,4
+827,Sunglasses,A comfortable and stylish piece.,22.24,Green,Men's Clothing,1,3
+828,Sunglasses,Perfect for any occasion.,56.85,Violet,Women's Clothing,4,7
+829,Jeans,Essential for your wardrobe.,44.62,Violet,Accessories,7,1
+830,Blouse,A great addition to your collection.,13.35,Blue,Women's Clothing,4,1
+831,Hat,High quality and durable.,98.52,Green,Accessories,4,1
+832,Dress,Made from premium materials.,83.58,Yellow,Unisex Clothing,5,1
+833,Dress,Perfect for any occasion.,83.02,Blue,Accessories,8,2
+834,Jeans,Versatile and practical.,32.87,Violet,Men's Clothing,10,2
+835,Hoodie,Elegant and chic.,99.41,Indigo,Unisex Clothing,10,6
+836,Belt,Perfect for any occasion.,85.94,Green,Men's Clothing,4,10
+837,Jeans,Affordable and durable.,63.67,Orange,Unisex Clothing,10,6
+838,Blouse,Made from premium materials.,62.86,Green,Men's Clothing,6,6
+839,Shoes,Made from premium materials.,32.87,Orange,Women's Clothing,7,2
+840,Shoes,A comfortable and stylish piece.,53.07,Orange,Women's Clothing,4,8
+841,Hoodie,Perfect for any occasion.,18.91,Indigo,Men's Clothing,10,7
+842,Blouse,Essential for your wardrobe.,19.38,Yellow,Women's Clothing,10,7
+843,Dress,A comfortable and stylish piece.,62.55,Red,Women's Clothing,2,2
+844,Blouse,A comfortable and stylish piece.,62.91,Red,Accessories,2,1
+845,Hoodie,Versatile and practical.,38.63,Violet,Women's Clothing,3,1
+846,Dress,Trendy and fashionable.,55.27,Violet,Unisex Clothing,7,8
+847,Hoodie,A comfortable and stylish piece.,39.68,Red,Men's Clothing,1,1
+848,Hat,Elegant and chic.,63.37,Red,Unisex Clothing,7,2
+849,Hoodie,Trendy and fashionable.,66.87,Yellow,Men's Clothing,8,4
+850,T-Shirt,Trendy and fashionable.,31.91,Yellow,Unisex Clothing,8,3
+851,T-Shirt,Elegant and chic.,65.65,Yellow,Accessories,4,9
+852,Belt,A great addition to your collection.,26.0,Green,Unisex Clothing,3,9
+853,Belt,Essential for your wardrobe.,68.64,Violet,Accessories,5,2
+854,Handbag,Elegant and chic.,18.98,Violet,Women's Clothing,4,6
+855,Hat,Elegant and chic.,10.64,Orange,Unisex Clothing,2,5
+856,Hoodie,Perfect for any occasion.,40.19,Blue,Women's Clothing,2,6
+857,Sunglasses,Essential for your wardrobe.,12.69,Indigo,Men's Clothing,9,4
+858,Dress,Versatile and practical.,26.63,Red,Women's Clothing,3,6
+859,Hoodie,Essential for your wardrobe.,22.59,Indigo,Unisex Clothing,1,7
+860,Shoes,Perfect for any occasion.,91.53,Orange,Unisex Clothing,9,3
+861,Dress,Trendy and fashionable.,36.38,Green,Men's Clothing,7,5
+862,Blouse,Affordable and durable.,25.01,Orange,Unisex Clothing,3,9
+863,Jeans,Essential for your wardrobe.,65.51,Indigo,Accessories,7,3
+864,Sunglasses,Elegant and chic.,48.69,Orange,Unisex Clothing,5,8
+865,Jeans,Versatile and practical.,99.3,Red,Unisex Clothing,6,9
+866,Handbag,A great addition to your collection.,54.25,Blue,Women's Clothing,10,6
+867,Handbag,A comfortable and stylish piece.,71.86,Yellow,Unisex Clothing,8,10
+868,Handbag,Essential for your wardrobe.,11.55,Indigo,Women's Clothing,9,1
+869,Sunglasses,A comfortable and stylish piece.,65.21,Red,Accessories,3,1
+870,Dress,Trendy and fashionable.,21.92,Red,Men's Clothing,7,4
+871,Belt,A comfortable and stylish piece.,77.42,Yellow,Women's Clothing,10,10
+872,Sunglasses,High quality and durable.,66.01,Blue,Men's Clothing,10,5
+873,Jeans,Elegant and chic.,88.06,Indigo,Unisex Clothing,2,1
+874,T-Shirt,Trendy and fashionable.,25.34,Orange,Men's Clothing,6,4
+875,T-Shirt,Versatile and practical.,68.01,Yellow,Men's Clothing,2,9
+876,Belt,Elegant and chic.,74.55,Violet,Unisex Clothing,4,3
+877,Shoes,Versatile and practical.,33.98,Red,Accessories,9,7
+878,Hat,Trendy and fashionable.,14.97,Green,Men's Clothing,9,5
+879,T-Shirt,Perfect for any occasion.,37.76,Yellow,Accessories,5,7
+880,Sunglasses,Essential for your wardrobe.,32.91,Red,Men's Clothing,9,8
+881,Jeans,Versatile and practical.,65.08,Yellow,Unisex Clothing,7,5
+882,Belt,A great addition to your collection.,46.7,Orange,Unisex Clothing,4,4
+883,Sunglasses,Perfect for any occasion.,51.95,Violet,Women's Clothing,8,2
+884,Dress,Elegant and chic.,12.46,Green,Women's Clothing,9,9
+885,Belt,A great addition to your collection.,98.44,Blue,Women's Clothing,9,9
+886,Hat,Trendy and fashionable.,30.26,Blue,Unisex Clothing,5,9
+887,Handbag,A comfortable and stylish piece.,20.63,Yellow,Unisex Clothing,6,7
+888,Shoes,A comfortable and stylish piece.,74.72,Violet,Women's Clothing,9,9
+889,Dress,High quality and durable.,32.75,Orange,Women's Clothing,10,1
+890,Sunglasses,Essential for your wardrobe.,92.34,Indigo,Men's Clothing,1,1
+891,Hoodie,Essential for your wardrobe.,54.25,Red,Accessories,4,1
+892,T-Shirt,Perfect for any occasion.,93.35,Red,Unisex Clothing,2,5
+893,Handbag,Perfect for any occasion.,90.94,Indigo,Unisex Clothing,7,10
+894,Hat,A great addition to your collection.,33.76,Red,Women's Clothing,3,5
+895,Hat,A comfortable and stylish piece.,76.47,Red,Unisex Clothing,6,2
+896,Sunglasses,Elegant and chic.,12.42,Red,Women's Clothing,10,3
+897,Hat,Perfect for any occasion.,19.12,Orange,Women's Clothing,4,2
+898,Hoodie,A great addition to your collection.,99.26,Blue,Unisex Clothing,2,3
+899,Belt,A comfortable and stylish piece.,22.76,Blue,Accessories,7,1
+900,Sunglasses,Trendy and fashionable.,90.98,Indigo,Accessories,10,5
+901,Dress,Elegant and chic.,84.97,Orange,Accessories,9,4
+902,Sunglasses,High quality and durable.,43.25,Violet,Women's Clothing,4,7
+903,T-Shirt,A comfortable and stylish piece.,46.46,Orange,Women's Clothing,4,6
+904,Hoodie,Perfect for any occasion.,14.52,Indigo,Unisex Clothing,9,5
+905,Blouse,Elegant and chic.,71.49,Blue,Women's Clothing,3,4
+906,Belt,Elegant and chic.,37.12,Indigo,Accessories,3,5
+907,Shoes,Elegant and chic.,72.57,Yellow,Women's Clothing,9,7
+908,Dress,Essential for your wardrobe.,56.51,Orange,Men's Clothing,10,8
+909,Dress,Elegant and chic.,30.11,Yellow,Men's Clothing,9,5
+910,Handbag,Perfect for any occasion.,81.85,Blue,Unisex Clothing,10,7
+911,Dress,Trendy and fashionable.,87.51,Yellow,Women's Clothing,7,10
+912,Handbag,A great addition to your collection.,16.43,Red,Unisex Clothing,8,6
+913,Handbag,Affordable and durable.,44.39,Blue,Women's Clothing,1,6
+914,Dress,Perfect for any occasion.,88.98,Green,Unisex Clothing,1,3
+915,Dress,Versatile and practical.,94.57,Blue,Unisex Clothing,5,8
+916,Hoodie,Versatile and practical.,95.84,Green,Men's Clothing,4,9
+917,Handbag,Perfect for any occasion.,80.77,Orange,Women's Clothing,8,10
+918,Handbag,Affordable and durable.,82.79,Indigo,Unisex Clothing,8,4
+919,Shoes,High quality and durable.,51.78,Red,Unisex Clothing,4,9
+920,Shoes,Perfect for any occasion.,42.92,Yellow,Unisex Clothing,7,6
+921,Shoes,Essential for your wardrobe.,46.5,Violet,Unisex Clothing,7,10
+922,Hoodie,Essential for your wardrobe.,73.61,Violet,Men's Clothing,1,9
+923,Shoes,A great addition to your collection.,36.6,Green,Women's Clothing,6,3
+924,Blouse,Affordable and durable.,88.46,Blue,Women's Clothing,4,7
+925,Jeans,A comfortable and stylish piece.,25.42,Blue,Men's Clothing,10,3
+926,Hat,High quality and durable.,55.98,Blue,Men's Clothing,10,9
+927,Blouse,Elegant and chic.,98.0,Blue,Men's Clothing,4,9
+928,Dress,A comfortable and stylish piece.,94.46,Violet,Women's Clothing,4,3
+929,Handbag,Affordable and durable.,84.03,Red,Unisex Clothing,3,3
+930,Belt,Versatile and practical.,54.4,Red,Accessories,9,8
+931,Blouse,A great addition to your collection.,19.09,Yellow,Accessories,1,10
+932,Hat,Made from premium materials.,15.11,Violet,Accessories,9,6
+933,Sunglasses,Trendy and fashionable.,61.89,Orange,Men's Clothing,9,8
+934,Jeans,A great addition to your collection.,55.07,Blue,Accessories,5,9
+935,T-Shirt,Affordable and durable.,29.28,Violet,Unisex Clothing,8,5
+936,Jeans,Essential for your wardrobe.,54.39,Blue,Women's Clothing,8,2
+937,Blouse,Elegant and chic.,81.72,Orange,Men's Clothing,2,5
+938,Jeans,A great addition to your collection.,12.22,Violet,Men's Clothing,1,4
+939,Belt,Elegant and chic.,35.07,Blue,Accessories,9,3
+940,Jeans,Versatile and practical.,63.53,Violet,Unisex Clothing,5,10
+941,Blouse,Made from premium materials.,77.1,Orange,Men's Clothing,8,9
+942,Jeans,Versatile and practical.,13.51,Violet,Men's Clothing,8,2
+943,Dress,Elegant and chic.,98.7,Yellow,Accessories,9,3
+944,T-Shirt,Trendy and fashionable.,62.4,Yellow,Women's Clothing,9,3
+945,Sunglasses,Versatile and practical.,92.97,Blue,Accessories,1,7
+946,Hoodie,A comfortable and stylish piece.,85.59,Orange,Accessories,3,5
+947,Jeans,Affordable and durable.,26.73,Indigo,Accessories,9,2
+948,Hat,Elegant and chic.,66.95,Yellow,Accessories,3,4
+949,Handbag,Trendy and fashionable.,82.84,Red,Accessories,4,5
+950,Belt,A comfortable and stylish piece.,41.88,Orange,Women's Clothing,7,2
+951,Hoodie,Essential for your wardrobe.,28.46,Orange,Accessories,8,7
+952,Hoodie,Essential for your wardrobe.,35.63,Orange,Women's Clothing,4,10
+953,Hat,Versatile and practical.,18.45,Violet,Women's Clothing,1,10
+954,Hoodie,A great addition to your collection.,95.55,Orange,Women's Clothing,1,2
+955,Shoes,Affordable and durable.,12.42,Violet,Accessories,6,8
+956,Hoodie,Perfect for any occasion.,16.73,Orange,Unisex Clothing,3,7
+957,T-Shirt,Essential for your wardrobe.,11.0,Red,Women's Clothing,10,4
+958,Hoodie,High quality and durable.,71.99,Indigo,Men's Clothing,2,7
+959,Hat,High quality and durable.,90.35,Blue,Unisex Clothing,6,2
+960,Blouse,Elegant and chic.,13.21,Orange,Unisex Clothing,2,2
+961,Jeans,A comfortable and stylish piece.,19.38,Violet,Accessories,2,8
+962,Belt,Trendy and fashionable.,72.34,Orange,Accessories,1,1
+963,Shoes,Versatile and practical.,27.32,Red,Women's Clothing,6,9
+964,Hoodie,Perfect for any occasion.,76.39,Violet,Accessories,5,7
+965,T-Shirt,Trendy and fashionable.,98.82,Green,Women's Clothing,10,2
+966,Hat,A great addition to your collection.,65.0,Red,Unisex Clothing,3,1
+967,Belt,Trendy and fashionable.,48.54,Red,Accessories,5,5
+968,Belt,Essential for your wardrobe.,43.22,Indigo,Women's Clothing,9,6
+969,Jeans,High quality and durable.,79.82,Orange,Unisex Clothing,10,3
+970,Hat,Perfect for any occasion.,77.86,Yellow,Unisex Clothing,10,6
+971,Handbag,A great addition to your collection.,40.52,Indigo,Unisex Clothing,2,9
+972,Belt,Elegant and chic.,30.96,Green,Women's Clothing,8,5
+973,T-Shirt,Made from premium materials.,28.75,Indigo,Unisex Clothing,5,9
+974,Sunglasses,A comfortable and stylish piece.,24.83,Green,Unisex Clothing,10,7
+975,Handbag,High quality and durable.,23.27,Blue,Women's Clothing,9,10
+976,Sunglasses,A comfortable and stylish piece.,53.74,Orange,Accessories,7,5
+977,Handbag,A comfortable and stylish piece.,63.74,Blue,Unisex Clothing,6,5
+978,Hoodie,A great addition to your collection.,31.08,Red,Accessories,10,10
+979,Shoes,Perfect for any occasion.,60.04,Orange,Men's Clothing,7,7
+980,Hat,A comfortable and stylish piece.,14.03,Green,Accessories,7,10
+981,T-Shirt,Essential for your wardrobe.,92.86,Red,Unisex Clothing,5,2
+982,Handbag,Elegant and chic.,44.04,Green,Unisex Clothing,7,6
+983,Sunglasses,A great addition to your collection.,93.32,Green,Unisex Clothing,7,7
+984,T-Shirt,Trendy and fashionable.,94.89,Indigo,Unisex Clothing,10,10
+985,Hat,High quality and durable.,84.31,Violet,Women's Clothing,10,8
+986,Hoodie,High quality and durable.,65.38,Violet,Women's Clothing,4,7
+987,Sunglasses,Affordable and durable.,24.03,Orange,Women's Clothing,6,9
+988,Hat,Elegant and chic.,87.32,Orange,Women's Clothing,4,10
+989,Blouse,Trendy and fashionable.,93.34,Blue,Women's Clothing,8,2
+990,Sunglasses,High quality and durable.,67.76,Indigo,Unisex Clothing,8,5
+991,Dress,Versatile and practical.,19.82,Violet,Unisex Clothing,8,3
+992,Hat,Essential for your wardrobe.,98.11,Violet,Men's Clothing,10,8
+993,T-Shirt,A great addition to your collection.,53.86,Blue,Unisex Clothing,4,6
+994,T-Shirt,Elegant and chic.,92.4,Yellow,Accessories,1,6
+995,Shoes,Essential for your wardrobe.,44.9,Red,Accessories,9,1
+996,T-Shirt,Made from premium materials.,98.56,Orange,Accessories,9,5
+997,Handbag,Elegant and chic.,40.29,Indigo,Unisex Clothing,2,9
+998,T-Shirt,Trendy and fashionable.,25.91,Red,Accessories,9,5
+999,Dress,A great addition to your collection.,18.45,Indigo,Men's Clothing,6,8
+1000,Sunglasses,A great addition to your collection.,46.15,Yellow,Accessories,9,2
